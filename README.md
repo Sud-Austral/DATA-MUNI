@@ -1,3 +1,3 @@
-# DATA-MUNI
+# DATOS DE LAS MUNICIPALIDADES CHILENAS
 
 ![](municipalidad.jpg)
