@@ -1,0 +1,734 @@
+
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>MCEDWIN</Author>
+  <LastAuthor>MCEDWIN</LastAuthor>
+  <Created>2013-07-20T02:44:40Z</Created>
+  <LastSaved>2013-07-20T02:44:58Z</LastSaved>
+  <Company>Windows</Company>
+  <Version>7</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10740</WindowHeight>
+  <WindowWidth>17595</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+  <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+				<Style ss:ID="xsfd228690e004fcd59e8c8ab8b5599c49"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#666666" ss:Pattern="Solid"/></Style>
+<Style ss:ID="xsa176e62aa212f75a7a44cd693855bbdc"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/></Style>
+<Style ss:ID="xsf5677cf341a28c09d433336d0a19d670"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#000099" ss:Pattern="Solid"/></Style>
+				
+
+</Styles>
+<Worksheet ss:Name="Hoja1">
+  <Table ss:ExpandedColumnCount="52" ss:ExpandedRowCount="12" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+<Column ss:Index='1' ss:Width='270' />
+<Column ss:Index='2' ss:Width='270' />
+<Column ss:Index='3' ss:Width='270' />
+<Column ss:Index='4' ss:Width='270' />
+<Column ss:Index='5' ss:Width='270' />
+<Column ss:Index='6' ss:Width='270' />
+<Column ss:Index='7' ss:Width='270' />
+<Column ss:Index='8' ss:Width='270' />
+<Column ss:Index='9' ss:Width='270' />
+<Column ss:Index='10' ss:Width='270' />
+<Column ss:Index='11' ss:Width='270' />
+<Column ss:Index='12' ss:Width='270' />
+<Column ss:Index='13' ss:Width='270' />
+<Column ss:Index='14' ss:Width='270' />
+<Column ss:Index='15' ss:Width='270' />
+<Column ss:Index='16' ss:Width='270' />
+<Column ss:Index='17' ss:Width='270' />
+<Column ss:Index='18' ss:Width='270' />
+<Column ss:Index='19' ss:Width='270' />
+<Column ss:Index='20' ss:Width='270' />
+<Column ss:Index='21' ss:Width='270' />
+<Column ss:Index='22' ss:Width='270' />
+<Column ss:Index='23' ss:Width='270' />
+<Column ss:Index='24' ss:Width='270' />
+<Column ss:Index='25' ss:Width='270' />
+<Column ss:Index='26' ss:Width='270' />
+<Column ss:Index='27' ss:Width='270' />
+<Column ss:Index='28' ss:Width='270' />
+<Column ss:Index='29' ss:Width='270' />
+<Column ss:Index='30' ss:Width='270' />
+<Column ss:Index='31' ss:Width='270' />
+<Column ss:Index='32' ss:Width='270' />
+<Column ss:Index='33' ss:Width='270' />
+<Column ss:Index='34' ss:Width='270' />
+<Column ss:Index='35' ss:Width='270' />
+<Column ss:Index='36' ss:Width='270' />
+<Column ss:Index='37' ss:Width='270' />
+<Column ss:Index='38' ss:Width='270' />
+<Column ss:Index='39' ss:Width='270' />
+<Column ss:Index='40' ss:Width='270' />
+<Column ss:Index='41' ss:Width='270' />
+<Column ss:Index='42' ss:Width='270' />
+<Column ss:Index='43' ss:Width='270' />
+<Column ss:Index='44' ss:Width='270' />
+<Column ss:Index='45' ss:Width='270' />
+<Column ss:Index='46' ss:Width='270' />
+<Column ss:Index='47' ss:Width='270' />
+<Column ss:Index='48' ss:Width='270' />
+<Column ss:Index='49' ss:Width='270' />
+<Column ss:Index='50' ss:Width='270' />
+<Column ss:Index='51' ss:Width='270' />
+<Column ss:Index='52' ss:Width='270' />
+<Row>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">Valores en miles de pesos nominales (M$) de cada año.</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="xsa176e62aa212f75a7a44cd693855bbdc"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="xsa176e62aa212f75a7a44cd693855bbdc"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH06 (N°) Funcionarios de Planta pertenecientes al Escalafón Directivo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH07 (N°) Funcionarios de Planta pertenecientes al Escalafón Profesional</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MGRADALC (N°) Grado del Alcalde</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH05 (N°) N° Funcionarios de Planta</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH03 (N°) N° Funcionarios de Planta Hombres</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH04 (N°) N° Funcionarios de Planta Mujeres</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH02 (N°) N° Funcionarios de Planta No Profesionales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH01 (N°) N° Funcionarios de Planta Profesionales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHPPD (PERS) Nº Funcionarios Hombres de Planta, pertenecientes al escalafón Directivo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMPPD (PERS) Nº Funcionarios Mujeres de Planta, pertenecientes al escalafón Directivo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHPPP (PERS) Nº Hombres de Planta, pertenecientes al escalafón Profesional</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHNPDP (PERS) Nº Hombres No Profesionales de Planta (sin título profesional) </Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHPDP (PERS) Nº Hombres Profesionales de Planta</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMPPP (PERS) Nº Mujeres de Planta pertenecientes al escalafón Profesional</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMNPDP (PERS) Nº Mujeres No Profesionales de Planta (sin título profesional) </Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMPDP (PERS) Nº Mujeres Profesionales de Planta </Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH14 (N°) Funcionarios a Contrata pertenecientes al Escalafón Profesional </Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH12 (N°) N° Funcionarios a Contrata</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH10 (N°) N° Funcionarios a Contrata Hombres</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH11 (N°) N° Funcionarios a Contrata Mujeres</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH09 (N°) N° Funcionarios a Contrata No Profesionales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH08 (N°) N° Funcionarios a Contrata Profesional</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHCPD (PERS) Nº Hombres a Contrata pertenecientes al escalafón Directivo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHCPP (PERS) Nº Hombres a Contrata pertenecientes al escalafón Profesional</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHNPC (PERS) Nº Hombres No Profesionales a Contrata (sin título profesional)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MHPC (PERS) Nº Hombres Profesionales a Contrata</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMCPD (PERS) Nº Mujeres a Contrata pertenecientes al escalafón Directivo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMCPP (PERS) Nº Mujeres a Contrata pertenecientes al escalafón Profesional</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMNPC (PERS) Nº Mujeres No Profesionales a Contrata (sin título profesional)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MMPC (PERS) Nº Mujeres Profesionales a Contrata</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH16 (N°) N° Funcionarios a Honorarios a Programas (Subtítulo 21.04.004)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHPH (PERS) Nº Funcionarios a Honorarios Hombres, destinados a Programas Comunitarios (21.04.004.000) (1 más 2)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHPHE (PERS) Nº Funcionarios a Honorarios Hombres, destinados a Programas Comunitarios con Recursos Externos (21.04.004.000) (2)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHPHI (PERS) Nº Funcionarios a Honorarios Hombres, destinados a Programas Comunitarios con Recursos Municipales (cta 21.04.004.000) (1)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHPM (PERS) Nº Funcionarios a Honorarios Mujeres, destinados a Programas Comunitarios (21.04.004.000) (1 más 2)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHPME (PERS) Nº Funcionarios a Honorarios Mujeres, destinados a Programas Comunitarios con Recursos Externos (21.04.004.000) (2)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHPMI (PERS) Nº Funcionarios a Honorarios Mujeres, destinados a Programas Comunitarios con Recursos Municipales (21.04.004.000) (1)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH15 (N°) N° Funcionarios a Honorarios sector Municipal (Subtitulo 21.03)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHM (PERS) Nº Total Funcionarios a Honorarios de Sexo Femenino (21.03.000.000)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTPHH (PERS) Nº Total Funcionarios a Honorarios de Sexo Masculino (21.03.000.000)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH18 (N°) N° Funcionarios Municipales de Sexo Femenino (Planta y Contrata)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH19 (N°) N° Funcionarios Municipales de Sexo Masculino (Planta y Contrata) </Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IRH17 (N°) N° Funcionarios Municipales (Planta y Contrata)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM25 (%) Nivel de Profesionalización del Personal Municipal</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM33 (%) Participación Femenina de Funcionarios Municipales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM35 (%) Participación Femenina en Escalafones Profesionales y Directivos sobre el Total de Funcionarios Municipales  en estos Escalafones</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM27 (%) Participación Femenina en Profesionales y Directivos Municipales Sobre el Total de Funcionarios Municipales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM26 (%) Participación Masculina de Funcionarios Municipales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM36 (%) Participación Masculina en Escalafones Profesionales y Directivos sobre el Total de Funcionarios Municipales en estos Escalafones</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">IADM34 (%) Participación Masculina en Profesionales y Directivos Municipales sobre el Total de Funcionarios Municipales</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">CODIGO</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">MUNICIPIO</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02101</Data></Cell>
+<Cell ><Data ss:Type="String">ANTOFAGASTA</Data></Cell>
+<Cell ><Data ss:Type="Number">22</Data></Cell>
+<Cell ><Data ss:Type="Number">51</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">426</Data></Cell>
+<Cell ><Data ss:Type="Number">218</Data></Cell>
+<Cell ><Data ss:Type="Number">208</Data></Cell>
+<Cell ><Data ss:Type="Number">338</Data></Cell>
+<Cell ><Data ss:Type="Number">88</Data></Cell>
+<Cell ><Data ss:Type="Number">17</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">185</Data></Cell>
+<Cell ><Data ss:Type="Number">33</Data></Cell>
+<Cell ><Data ss:Type="Number">35</Data></Cell>
+<Cell ><Data ss:Type="Number">153</Data></Cell>
+<Cell ><Data ss:Type="Number">55</Data></Cell>
+<Cell ><Data ss:Type="Number">63</Data></Cell>
+<Cell ><Data ss:Type="Number">143</Data></Cell>
+<Cell ><Data ss:Type="Number">64</Data></Cell>
+<Cell ><Data ss:Type="Number">79</Data></Cell>
+<Cell ><Data ss:Type="Number">75</Data></Cell>
+<Cell ><Data ss:Type="Number">68</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">25</Data></Cell>
+<Cell ><Data ss:Type="Number">38</Data></Cell>
+<Cell ><Data ss:Type="Number">26</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">38</Data></Cell>
+<Cell ><Data ss:Type="Number">37</Data></Cell>
+<Cell ><Data ss:Type="Number">42</Data></Cell>
+<Cell ><Data ss:Type="Number">160</Data></Cell>
+<Cell ><Data ss:Type="Number">51</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">44</Data></Cell>
+<Cell ><Data ss:Type="Number">109</Data></Cell>
+<Cell ><Data ss:Type="Number">31</Data></Cell>
+<Cell ><Data ss:Type="Number">78</Data></Cell>
+<Cell ><Data ss:Type="Number">59</Data></Cell>
+<Cell ><Data ss:Type="Number">46</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">287</Data></Cell>
+<Cell ><Data ss:Type="Number">282</Data></Cell>
+<Cell ><Data ss:Type="Number">569</Data></Cell>
+<Cell ><Data ss:Type="Number">27.42</Data></Cell>
+<Cell ><Data ss:Type="Number">50.44</Data></Cell>
+<Cell ><Data ss:Type="Number">57.35</Data></Cell>
+<Cell ><Data ss:Type="Number">13.71</Data></Cell>
+<Cell ><Data ss:Type="Number">49.56</Data></Cell>
+<Cell ><Data ss:Type="Number">42.65</Data></Cell>
+<Cell ><Data ss:Type="Number">10.19</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02102</Data></Cell>
+<Cell ><Data ss:Type="String">MEJILLONES</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">28</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">15</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">76</Data></Cell>
+<Cell ><Data ss:Type="Number">27</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">27</Data></Cell>
+<Cell ><Data ss:Type="Number">49</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">49</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">25</Data></Cell>
+<Cell ><Data ss:Type="Number">27</Data></Cell>
+<Cell ><Data ss:Type="Number">52</Data></Cell>
+<Cell ><Data ss:Type="Number">32.69</Data></Cell>
+<Cell ><Data ss:Type="Number">48.08</Data></Cell>
+<Cell ><Data ss:Type="Number">41.67</Data></Cell>
+<Cell ><Data ss:Type="Number">9.62</Data></Cell>
+<Cell ><Data ss:Type="Number">51.92</Data></Cell>
+<Cell ><Data ss:Type="Number">58.33</Data></Cell>
+<Cell ><Data ss:Type="Number">13.46</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02103</Data></Cell>
+<Cell ><Data ss:Type="String">SIERRA GORDA</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">43</Data></Cell>
+<Cell ><Data ss:Type="Number">19</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">23</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">136</Data></Cell>
+<Cell ><Data ss:Type="Number">21</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">115</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">115</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">26</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">50</Data></Cell>
+<Cell ><Data ss:Type="Number">52</Data></Cell>
+<Cell ><Data ss:Type="Number">52</Data></Cell>
+<Cell ><Data ss:Type="Number">56.52</Data></Cell>
+<Cell ><Data ss:Type="Number">26</Data></Cell>
+<Cell ><Data ss:Type="Number">48</Data></Cell>
+<Cell ><Data ss:Type="Number">43.48</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02104</Data></Cell>
+<Cell ><Data ss:Type="String">TALTAL</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">32</Data></Cell>
+<Cell ><Data ss:Type="Number">18</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">22</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">8</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">27</Data></Cell>
+<Cell ><Data ss:Type="Number">25</Data></Cell>
+<Cell ><Data ss:Type="Number">52</Data></Cell>
+<Cell ><Data ss:Type="Number">26.92</Data></Cell>
+<Cell ><Data ss:Type="Number">51.92</Data></Cell>
+<Cell ><Data ss:Type="Number">22.22</Data></Cell>
+<Cell ><Data ss:Type="Number">3.85</Data></Cell>
+<Cell ><Data ss:Type="Number">48.08</Data></Cell>
+<Cell ><Data ss:Type="Number">77.78</Data></Cell>
+<Cell ><Data ss:Type="Number">13.46</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02201</Data></Cell>
+<Cell ><Data ss:Type="String">CALAMA</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">156</Data></Cell>
+<Cell ><Data ss:Type="Number">76</Data></Cell>
+<Cell ><Data ss:Type="Number">80</Data></Cell>
+<Cell ><Data ss:Type="Number">115</Data></Cell>
+<Cell ><Data ss:Type="Number">41</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">53</Data></Cell>
+<Cell ><Data ss:Type="Number">23</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">62</Data></Cell>
+<Cell ><Data ss:Type="Number">18</Data></Cell>
+<Cell ><Data ss:Type="Number">18</Data></Cell>
+<Cell ><Data ss:Type="Number">82</Data></Cell>
+<Cell ><Data ss:Type="Number">38</Data></Cell>
+<Cell ><Data ss:Type="Number">44</Data></Cell>
+<Cell ><Data ss:Type="Number">59</Data></Cell>
+<Cell ><Data ss:Type="Number">23</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">8</Data></Cell>
+<Cell ><Data ss:Type="Number">29</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">30</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">358</Data></Cell>
+<Cell ><Data ss:Type="Number">128</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">128</Data></Cell>
+<Cell ><Data ss:Type="Number">230</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">230</Data></Cell>
+<Cell ><Data ss:Type="Number">37</Data></Cell>
+<Cell ><Data ss:Type="Number">27</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">124</Data></Cell>
+<Cell ><Data ss:Type="Number">114</Data></Cell>
+<Cell ><Data ss:Type="Number">238</Data></Cell>
+<Cell ><Data ss:Type="Number">26.89</Data></Cell>
+<Cell ><Data ss:Type="Number">52.1</Data></Cell>
+<Cell ><Data ss:Type="Number">50</Data></Cell>
+<Cell ><Data ss:Type="Number">9.66</Data></Cell>
+<Cell ><Data ss:Type="Number">47.9</Data></Cell>
+<Cell ><Data ss:Type="Number">50</Data></Cell>
+<Cell ><Data ss:Type="Number">9.66</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02202</Data></Cell>
+<Cell ><Data ss:Type="String">OLLAGÜE</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">17</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">41.67</Data></Cell>
+<Cell ><Data ss:Type="Number">41.67</Data></Cell>
+<Cell ><Data ss:Type="Number">33.33</Data></Cell>
+<Cell ><Data ss:Type="Number">12.5</Data></Cell>
+<Cell ><Data ss:Type="Number">58.33</Data></Cell>
+<Cell ><Data ss:Type="Number">66.67</Data></Cell>
+<Cell ><Data ss:Type="Number">25</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02203</Data></Cell>
+<Cell ><Data ss:Type="String">SAN PEDRO DE ATACAMA</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">17</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">42</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">28</Data></Cell>
+<Cell ><Data ss:Type="Number">22</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">8</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">17</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">41</Data></Cell>
+<Cell ><Data ss:Type="Number">61</Data></Cell>
+<Cell ><Data ss:Type="Number">29</Data></Cell>
+<Cell ><Data ss:Type="Number">32</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">41</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">18</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">18</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">23</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">23</Data></Cell>
+<Cell ><Data ss:Type="Number">35</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">25</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">60</Data></Cell>
+<Cell ><Data ss:Type="Number">43</Data></Cell>
+<Cell ><Data ss:Type="Number">103</Data></Cell>
+<Cell ><Data ss:Type="Number">59.22</Data></Cell>
+<Cell ><Data ss:Type="Number">58.25</Data></Cell>
+<Cell ><Data ss:Type="Number">54.29</Data></Cell>
+<Cell ><Data ss:Type="Number">36.89</Data></Cell>
+<Cell ><Data ss:Type="Number">41.75</Data></Cell>
+<Cell ><Data ss:Type="Number">45.71</Data></Cell>
+<Cell ><Data ss:Type="Number">31.07</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02301</Data></Cell>
+<Cell ><Data ss:Type="String">TOCOPILLA</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">46</Data></Cell>
+<Cell ><Data ss:Type="Number">32</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">39</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">28</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">70</Data></Cell>
+<Cell ><Data ss:Type="Number">41</Data></Cell>
+<Cell ><Data ss:Type="Number">29</Data></Cell>
+<Cell ><Data ss:Type="Number">55</Data></Cell>
+<Cell ><Data ss:Type="Number">15</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">31</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">69</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">53</Data></Cell>
+<Cell ><Data ss:Type="Number">44</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">43</Data></Cell>
+<Cell ><Data ss:Type="Number">73</Data></Cell>
+<Cell ><Data ss:Type="Number">116</Data></Cell>
+<Cell ><Data ss:Type="Number">18.97</Data></Cell>
+<Cell ><Data ss:Type="Number">37.07</Data></Cell>
+<Cell ><Data ss:Type="Number">31.58</Data></Cell>
+<Cell ><Data ss:Type="Number">5.17</Data></Cell>
+<Cell ><Data ss:Type="Number">62.93</Data></Cell>
+<Cell ><Data ss:Type="Number">68.42</Data></Cell>
+<Cell ><Data ss:Type="Number">11.21</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02302</Data></Cell>
+<Cell ><Data ss:Type="String">MARÍA ELENA</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">21</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">23</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">8</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">45</Data></Cell>
+<Cell ><Data ss:Type="Number">19</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">19</Data></Cell>
+<Cell ><Data ss:Type="Number">26</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">26</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">44</Data></Cell>
+<Cell ><Data ss:Type="Number">34.09</Data></Cell>
+<Cell ><Data ss:Type="Number">54.55</Data></Cell>
+<Cell ><Data ss:Type="Number">61.54</Data></Cell>
+<Cell ><Data ss:Type="Number">18.18</Data></Cell>
+<Cell ><Data ss:Type="Number">45.45</Data></Cell>
+<Cell ><Data ss:Type="Number">38.46</Data></Cell>
+<Cell ><Data ss:Type="Number">11.36</Data></Cell>
+</Row>
+</Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.98" x:Left="0.79" x:Right="0.79" x:Top="0.98"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

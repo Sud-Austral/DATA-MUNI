@@ -1,0 +1,614 @@
+
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>MCEDWIN</Author>
+  <LastAuthor>MCEDWIN</LastAuthor>
+  <Created>2013-07-20T02:44:40Z</Created>
+  <LastSaved>2013-07-20T02:44:58Z</LastSaved>
+  <Company>Windows</Company>
+  <Version>7</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10740</WindowHeight>
+  <WindowWidth>17595</WindowWidth>
+  <WindowTopX>480</WindowTopX>
+  <WindowTopY>90</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+  <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+				<Style ss:ID="xsfd228690e004fcd59e8c8ab8b5599c49"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#666666" ss:Pattern="Solid"/></Style>
+<Style ss:ID="xsa176e62aa212f75a7a44cd693855bbdc"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#FFFFFF"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/></Style>
+<Style ss:ID="xsf5677cf341a28c09d433336d0a19d670"><Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/><Borders>
+						<Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+						<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+						 ss:Color="#000000"/>
+					   </Borders><Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/> <Interior ss:Color="#000099" ss:Pattern="Solid"/></Style>
+				
+
+</Styles>
+<Worksheet ss:Name="Hoja1">
+  <Table ss:ExpandedColumnCount="42" ss:ExpandedRowCount="12" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+<Column ss:Index='1' ss:Width='270' />
+<Column ss:Index='2' ss:Width='270' />
+<Column ss:Index='3' ss:Width='270' />
+<Column ss:Index='4' ss:Width='270' />
+<Column ss:Index='5' ss:Width='270' />
+<Column ss:Index='6' ss:Width='270' />
+<Column ss:Index='7' ss:Width='270' />
+<Column ss:Index='8' ss:Width='270' />
+<Column ss:Index='9' ss:Width='270' />
+<Column ss:Index='10' ss:Width='270' />
+<Column ss:Index='11' ss:Width='270' />
+<Column ss:Index='12' ss:Width='270' />
+<Column ss:Index='13' ss:Width='270' />
+<Column ss:Index='14' ss:Width='270' />
+<Column ss:Index='15' ss:Width='270' />
+<Column ss:Index='16' ss:Width='270' />
+<Column ss:Index='17' ss:Width='270' />
+<Column ss:Index='18' ss:Width='270' />
+<Column ss:Index='19' ss:Width='270' />
+<Column ss:Index='20' ss:Width='270' />
+<Column ss:Index='21' ss:Width='270' />
+<Column ss:Index='22' ss:Width='270' />
+<Column ss:Index='23' ss:Width='270' />
+<Column ss:Index='24' ss:Width='270' />
+<Column ss:Index='25' ss:Width='270' />
+<Column ss:Index='26' ss:Width='270' />
+<Column ss:Index='27' ss:Width='270' />
+<Column ss:Index='28' ss:Width='270' />
+<Column ss:Index='29' ss:Width='270' />
+<Column ss:Index='30' ss:Width='270' />
+<Column ss:Index='31' ss:Width='270' />
+<Column ss:Index='32' ss:Width='270' />
+<Column ss:Index='33' ss:Width='270' />
+<Column ss:Index='34' ss:Width='270' />
+<Column ss:Index='35' ss:Width='270' />
+<Column ss:Index='36' ss:Width='270' />
+<Column ss:Index='37' ss:Width='270' />
+<Column ss:Index='38' ss:Width='270' />
+<Column ss:Index='39' ss:Width='270' />
+<Column ss:Index='40' ss:Width='270' />
+<Column ss:Index='41' ss:Width='270' />
+<Column ss:Index='42' ss:Width='270' />
+<Row>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">Valores en miles de pesos nominales (M$) de cada año.</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="xsa176e62aa212f75a7a44cd693855bbdc"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="xsa176e62aa212f75a7a44cd693855bbdc"><Data ss:Type="String"></Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">ISOC001 (%) Indice de Pobreza CASEN (Última Encuesta Vigente)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">LPCASEN (%) Porcentaje de Población en Condiciones de Pobreza , según CASEN</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">NPBSVM (M$) Monto Pagado por Pensión Básica de Vejez (PBSV) en el año</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">NPBS1 (M$) Monto Pagado por Pensión Básica Solidaria (PBS) en el año</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">NPBSIM (M$) Monto Pagado por Pensión de Invalidez (PBSI) en el año</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MSELECT (Nº) Número de Beneficiarios de Subsidio Eléctrico en la comuna durante el año</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">NPBSIA (N°) Pensiones Básicas Solidarias de Invalidez (PBSI) Pagadas a la comuna</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">NPBSVA (N°) Pensiones Básicas Solidarias de Vejez (PBSV) Pagadas a la comuna</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">NPBS (N°) Pensiones Básicas Solidarias (PBS) Pagadas a la comuna</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MSAOR (N°) Subsidios de Agua Potable (SAP) Otorgados por la comuna a Zonas Rurales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MSAOU (N°) Subsidios de Agua Potable (SAP) Otorgados por la comuna a Zonas Urbanas</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MSUFO (N°) Subsidios Familiares (SUF) Otorgados en la comuna</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MNPEE (N°) Personas Enviadas a un Empleo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MPIE (N°) Personas Inscritas en la Municipalidad en Busca de Empleo</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MPIC (N°) Personas Inscritas en la Municipalidad para Capacitación</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MPEC (N°) Personas que Efectivamente Egresan de Cursos de Capacitación Laboral</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">ISOC012 (%) Tasa Logros de Egresos de Capacitación</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCCULT (N°) N° de Centros Culturales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCMO (N°) Nº de Centros de Madres</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCPAO (N°) Nº de Centros de Padres y Apoderados</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCOAM (N°) Nº de Centros u Organizaciones del Adulto Mayor</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCDO (N°) N° de Clubes Deportivos</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCBOMB (N°) N° de Compañías de Bomberos</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MJVNO (N°) Nº de Juntas de Vecinos</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MOOCF (N°) Nº de Otras Organizaciones Comunitarias Funcionales (otros)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MUCNO (N°) Nº de Uniones Comunales</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">ISOC013 (N°) Número de Organizaciones Comunitarias (suma total)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MBIEB (N°) Becas Indígenas Enseñanza Básica</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MBIEM (N°) Becas Indígenas Enseñanza Media</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MTSBP (N°) Becas Presidente de la República a Enseñanza Media Asignadas a la Comuna</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MOCOSOC (S-N) Existe alguna ordenanza de participación ciudadana? (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MCOSOC (S-N) Se encuentra constituido el Consejo Comunal de Organizaciones de la Sociedad Civil (COSOC) en su municipio? (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MDISCAP (S-N) Existe en el organigrama municipal una unidad específica a cargo del tema de discapacidad? (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MIDISCAP (S-N) Existe información estadística de personas con discapacidad en su comuna? (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MNSEGCIUC (N°) Número de casetas de seguridad en la comuna (desde el año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MNSEGCIUCA (N°) Número de cámaras de vigilancia en la comuna (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MNSEGCIUIN (N°) Número de guardias, inspectores o vigilantes municipales (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MNSEGCIUM (N°) Número de profesionales pagados por el Ministerio del Interior (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MNSEGCIU (N°) Número de recursos que componen el área de Seguridad de su Municipio, en este caso, Número de profesionales pagados por el municipio (desde año 2016)</Data></Cell>
+<Cell ss:StyleID="xsfd228690e004fcd59e8c8ab8b5599c49"><Data ss:Type="String">MSEGCIU (S-N) Su Municipio tiene un área dedicada especialmente a la Seguridad Ciudadana? (desde año 2016) </Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">CODIGO</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">MUNICIPIO</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+<Cell ss:StyleID="xsf5677cf341a28c09d433336d0a19d670"><Data ss:Type="String">2020</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02101</Data></Cell>
+<Cell ><Data ss:Type="String">ANTOFAGASTA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">6895644</Data></Cell>
+<Cell ><Data ss:Type="Number">10319403</Data></Cell>
+<Cell ><Data ss:Type="Number">3423759</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">24548</Data></Cell>
+<Cell ><Data ss:Type="Number">47021</Data></Cell>
+<Cell ><Data ss:Type="Number">71569</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">10592</Data></Cell>
+<Cell ><Data ss:Type="Number">5396</Data></Cell>
+<Cell ><Data ss:Type="Number">26143</Data></Cell>
+<Cell ><Data ss:Type="Number">6571</Data></Cell>
+<Cell ><Data ss:Type="Number">1351</Data></Cell>
+<Cell ><Data ss:Type="Number">307</Data></Cell>
+<Cell ><Data ss:Type="Number">22.72</Data></Cell>
+<Cell ><Data ss:Type="Number">104</Data></Cell>
+<Cell ><Data ss:Type="Number">29</Data></Cell>
+<Cell ><Data ss:Type="Number">60</Data></Cell>
+<Cell ><Data ss:Type="Number">85</Data></Cell>
+<Cell ><Data ss:Type="Number">85</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">151</Data></Cell>
+<Cell ><Data ss:Type="Number">1050</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">1568</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02102</Data></Cell>
+<Cell ><Data ss:Type="String">MEJILLONES</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">198659</Data></Cell>
+<Cell ><Data ss:Type="Number">323251</Data></Cell>
+<Cell ><Data ss:Type="Number">124592</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">893</Data></Cell>
+<Cell ><Data ss:Type="Number">1351</Data></Cell>
+<Cell ><Data ss:Type="Number">2244</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">469</Data></Cell>
+<Cell ><Data ss:Type="Number">240</Data></Cell>
+<Cell ><Data ss:Type="Number">217</Data></Cell>
+<Cell ><Data ss:Type="Number">302</Data></Cell>
+<Cell ><Data ss:Type="Number">60</Data></Cell>
+<Cell ><Data ss:Type="Number">60</Data></Cell>
+<Cell ><Data ss:Type="Number">100</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">52</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">112</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">51</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="Number">22</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">28</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02103</Data></Cell>
+<Cell ><Data ss:Type="String">SIERRA GORDA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">21778</Data></Cell>
+<Cell ><Data ss:Type="Number">25983</Data></Cell>
+<Cell ><Data ss:Type="Number">4205</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">30</Data></Cell>
+<Cell ><Data ss:Type="Number">144</Data></Cell>
+<Cell ><Data ss:Type="Number">174</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">42</Data></Cell>
+<Cell ><Data ss:Type="Number">63</Data></Cell>
+<Cell ><Data ss:Type="Number">15</Data></Cell>
+<Cell ><Data ss:Type="Number">15</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">8</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">19</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">11</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02104</Data></Cell>
+<Cell ><Data ss:Type="String">TALTAL</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">392814</Data></Cell>
+<Cell ><Data ss:Type="Number">630115</Data></Cell>
+<Cell ><Data ss:Type="Number">237301</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">1700</Data></Cell>
+<Cell ><Data ss:Type="Number">2675</Data></Cell>
+<Cell ><Data ss:Type="Number">4375</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">4</Data></Cell>
+<Cell ><Data ss:Type="Number">6</Data></Cell>
+<Cell ><Data ss:Type="Number">15</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">13</Data></Cell>
+<Cell ><Data ss:Type="Number">15</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">59</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02201</Data></Cell>
+<Cell ><Data ss:Type="String">CALAMA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">3151335</Data></Cell>
+<Cell ><Data ss:Type="Number">4359189</Data></Cell>
+<Cell ><Data ss:Type="Number">1207854</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">8663</Data></Cell>
+<Cell ><Data ss:Type="Number">21388</Data></Cell>
+<Cell ><Data ss:Type="Number">30051</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3717</Data></Cell>
+<Cell ><Data ss:Type="Number">1697</Data></Cell>
+<Cell ><Data ss:Type="Number">2363</Data></Cell>
+<Cell ><Data ss:Type="Number">8712</Data></Cell>
+<Cell ><Data ss:Type="Number">181</Data></Cell>
+<Cell ><Data ss:Type="Number">128</Data></Cell>
+<Cell ><Data ss:Type="Number">70.72</Data></Cell>
+<Cell ><Data ss:Type="Number">82</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">72</Data></Cell>
+<Cell ><Data ss:Type="Number">56</Data></Cell>
+<Cell ><Data ss:Type="Number">494</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">98</Data></Cell>
+<Cell ><Data ss:Type="Number">453</Data></Cell>
+<Cell ><Data ss:Type="Number">5</Data></Cell>
+<Cell ><Data ss:Type="Number">1275</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02202</Data></Cell>
+<Cell ><Data ss:Type="String">OLLAGÜE</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">16732</Data></Cell>
+<Cell ><Data ss:Type="Number">16870</Data></Cell>
+<Cell ><Data ss:Type="Number">138</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">110</Data></Cell>
+<Cell ><Data ss:Type="Number">111</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">9</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02203</Data></Cell>
+<Cell ><Data ss:Type="String">SAN PEDRO DE ATACAMA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">285600</Data></Cell>
+<Cell ><Data ss:Type="Number">351458</Data></Cell>
+<Cell ><Data ss:Type="Number">65857</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">472</Data></Cell>
+<Cell ><Data ss:Type="Number">1858</Data></Cell>
+<Cell ><Data ss:Type="Number">2330</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02301</Data></Cell>
+<Cell ><Data ss:Type="String">TOCOPILLA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">872529</Data></Cell>
+<Cell ><Data ss:Type="Number">1375202</Data></Cell>
+<Cell ><Data ss:Type="Number">502673</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3601</Data></Cell>
+<Cell ><Data ss:Type="Number">5965</Data></Cell>
+<Cell ><Data ss:Type="Number">9566</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1232</Data></Cell>
+<Cell ><Data ss:Type="Number">14949</Data></Cell>
+<Cell ><Data ss:Type="Number">653</Data></Cell>
+<Cell ><Data ss:Type="Number">1114</Data></Cell>
+<Cell ><Data ss:Type="Number">233</Data></Cell>
+<Cell ><Data ss:Type="Number">116</Data></Cell>
+<Cell ><Data ss:Type="Number">49.79</Data></Cell>
+<Cell ><Data ss:Type="Number">19</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">8</Data></Cell>
+<Cell ><Data ss:Type="Number">17</Data></Cell>
+<Cell ><Data ss:Type="Number">39</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">32</Data></Cell>
+<Cell ><Data ss:Type="Number">86</Data></Cell>
+<Cell ><Data ss:Type="Number">14</Data></Cell>
+<Cell ><Data ss:Type="Number">220</Data></Cell>
+<Cell ><Data ss:Type="Number">12</Data></Cell>
+<Cell ><Data ss:Type="Number">10</Data></Cell>
+<Cell ><Data ss:Type="Number">60</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">16</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+</Row>
+<Row>
+<Cell ><Data ss:Type="Number">02302</Data></Cell>
+<Cell ><Data ss:Type="String">MARÍA ELENA</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="String">No Recepcionado</Data></Cell>
+<Cell ><Data ss:Type="Number">67760</Data></Cell>
+<Cell ><Data ss:Type="Number">94272</Data></Cell>
+<Cell ><Data ss:Type="Number">26513</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">190</Data></Cell>
+<Cell ><Data ss:Type="Number">461</Data></Cell>
+<Cell ><Data ss:Type="Number">651</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">118</Data></Cell>
+<Cell ><Data ss:Type="Number">100</Data></Cell>
+<Cell ><Data ss:Type="Number">900</Data></Cell>
+<Cell ><Data ss:Type="Number">65</Data></Cell>
+<Cell ><Data ss:Type="Number">64</Data></Cell>
+<Cell ><Data ss:Type="Number">98.46</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">7</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">20</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">39</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">3</Data></Cell>
+<Cell ><Data ss:Type="Number">24</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+<Cell ><Data ss:Type="String">No</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">2</Data></Cell>
+<Cell ><Data ss:Type="Number">0</Data></Cell>
+<Cell ><Data ss:Type="Number">1</Data></Cell>
+<Cell ><Data ss:Type="String">Si</Data></Cell>
+</Row>
+</Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.98" x:Left="0.79" x:Right="0.79" x:Top="0.98"/>
+   </PageSetup>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

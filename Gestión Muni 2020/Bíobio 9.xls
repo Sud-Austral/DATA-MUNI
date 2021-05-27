@@ -1,0 +1,387 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>MCEDWIN</Author>
+  <LastAuthor>MCEDWIN</LastAuthor>
+  <Created>2013-07-20T02:44:40Z</Created>
+  <LastSaved>2013-07-20T02:44:58Z</LastSaved>
+  <Company>Windows</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11265</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666666" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000099" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Hoja1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="36" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:Width="270" ss:Span="5"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Valores en miles de pesos nominales (M$) de cada año.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MCEM (S-N) ¿La Municipalidad o Corporación administra Cementerio?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MCEM01 (S-N) Si la Municipalidad o Corporación administra Cementerio, indique si tiene presupuesto propio. SI = presupuesto propio o independiente.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CEM01 (M$) Ingresos Cementerio (Ingreso Total Percibido)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">CEM02 (M$) Gastos Cementerio (Gasto Total Devengado)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CODIGO</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">MUNICIPIO</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8101</Data></Cell>
+    <Cell><Data ss:Type="String">CONCEPCIÓN</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">1403605</Data></Cell>
+    <Cell><Data ss:Type="Number">931731</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8102</Data></Cell>
+    <Cell><Data ss:Type="String">CORONEL</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">215357</Data></Cell>
+    <Cell><Data ss:Type="Number">195649</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8103</Data></Cell>
+    <Cell><Data ss:Type="String">CHIGUAYANTE</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">413247</Data></Cell>
+    <Cell><Data ss:Type="Number">389068</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8104</Data></Cell>
+    <Cell><Data ss:Type="String">FLORIDA</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8105</Data></Cell>
+    <Cell><Data ss:Type="String">HUALQUI</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">189691</Data></Cell>
+    <Cell><Data ss:Type="Number">178125</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8106</Data></Cell>
+    <Cell><Data ss:Type="String">LOTA</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8107</Data></Cell>
+    <Cell><Data ss:Type="String">PENCO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8108</Data></Cell>
+    <Cell><Data ss:Type="String">SAN PEDRO DE LA PAZ</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8109</Data></Cell>
+    <Cell><Data ss:Type="String">SANTA JUANA</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">103601</Data></Cell>
+    <Cell><Data ss:Type="Number">91975</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8110</Data></Cell>
+    <Cell><Data ss:Type="String">TALCAHUANO</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">726857</Data></Cell>
+    <Cell><Data ss:Type="Number">718903</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8111</Data></Cell>
+    <Cell><Data ss:Type="String">TOMÉ</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8112</Data></Cell>
+    <Cell><Data ss:Type="String">HUALPÉN</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8201</Data></Cell>
+    <Cell><Data ss:Type="String">LEBU</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8202</Data></Cell>
+    <Cell><Data ss:Type="String">ARAUCO</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">49897</Data></Cell>
+    <Cell><Data ss:Type="Number">35096</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8203</Data></Cell>
+    <Cell><Data ss:Type="String">CAÑETE</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8204</Data></Cell>
+    <Cell><Data ss:Type="String">CONTULMO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8205</Data></Cell>
+    <Cell><Data ss:Type="String">CURANILAHUE</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8206</Data></Cell>
+    <Cell><Data ss:Type="String">LOS ÁLAMOS</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8207</Data></Cell>
+    <Cell><Data ss:Type="String">TIRÚA</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8301</Data></Cell>
+    <Cell><Data ss:Type="String">LOS ÁNGELES</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">460803</Data></Cell>
+    <Cell><Data ss:Type="Number">352044</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8302</Data></Cell>
+    <Cell><Data ss:Type="String">ANTUCO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8303</Data></Cell>
+    <Cell><Data ss:Type="String">CABRERO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8304</Data></Cell>
+    <Cell><Data ss:Type="String">LAJA</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8305</Data></Cell>
+    <Cell><Data ss:Type="String">MULCHÉN</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">80663</Data></Cell>
+    <Cell><Data ss:Type="Number">61306</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8306</Data></Cell>
+    <Cell><Data ss:Type="String">NACIMIENTO</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">154567</Data></Cell>
+    <Cell><Data ss:Type="Number">116421</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8307</Data></Cell>
+    <Cell><Data ss:Type="String">NEGRETE</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">31783</Data></Cell>
+    <Cell><Data ss:Type="Number">28953</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8308</Data></Cell>
+    <Cell><Data ss:Type="String">QUILACO</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">15024</Data></Cell>
+    <Cell><Data ss:Type="Number">13922</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8309</Data></Cell>
+    <Cell><Data ss:Type="String">QUILLECO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">21969</Data></Cell>
+    <Cell><Data ss:Type="Number">11952</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8310</Data></Cell>
+    <Cell><Data ss:Type="String">SAN ROSENDO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8311</Data></Cell>
+    <Cell><Data ss:Type="String">SANTA BÁRBARA</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">86777</Data></Cell>
+    <Cell><Data ss:Type="Number">75886</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8312</Data></Cell>
+    <Cell><Data ss:Type="String">TUCAPEL</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="Number">33004</Data></Cell>
+    <Cell><Data ss:Type="Number">33094</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8313</Data></Cell>
+    <Cell><Data ss:Type="String">YUMBEL</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8314</Data></Cell>
+    <Cell><Data ss:Type="String">ALTO BIOBÍO</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.98" x:Left="0.79" x:Right="0.79" x:Top="0.98"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>11</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

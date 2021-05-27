@@ -1,0 +1,2827 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>MCEDWIN</Author>
+  <LastAuthor>MCEDWIN</LastAuthor>
+  <Created>2013-07-20T02:44:40Z</Created>
+  <LastSaved>2013-07-20T02:44:58Z</LastSaved>
+  <Company>Windows</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11265</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#666666" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000099" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Hoja1">
+  <Table ss:ExpandedColumnCount="78" ss:ExpandedRowCount="35" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60">
+   <Column ss:Width="270" ss:Span="77"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Valores en miles de pesos nominales (M$) de cada año.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IPEEC (N°) Población Comunal en Edad Escolar</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU003 (S-N) ¿Posee Enseñanza Media Municipal?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MDESMEDU (S-N) Realizó Traspaso de la Educación Municipal al Servicio Local de Educación (desmunicipalización)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MPADEM (S-N) ¿Su Municipio Posee PADEM?</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU001 (TEXT) Tipo de Administración del Sistema de Educacion Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU009 (%) Cobertura en Educación Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DMGBA (N°) Matrícula General de Alumnos de Enseñanza Básica Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DMGMA (N°) Matrícula General de Alumnos de Enseñanza Media Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DMIB (N°) Matrícula Inicial de Alumnos de Enseñanza Básica Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DMIM (N°) Matrícula Inicial de Alumnos de Enseñanza Media Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DNAM (N°) Matrícula Inicial en Establecimientos Municipales</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DMIPP (N°) Matrícula Inicial en Establecimientos Particulares Pagados</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DMIPS (N°) Matrícula Inicial en Establecimientos Particulares Subvencionados </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU008 (PERS) Matrícula Promedio Mensual Establecimientos de Educación Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU005 (%) Porcentaje de Asistencia Escolar Comunal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU006 (%) Porcentaje de Retiro de Alumnos de Establecimientos Municipales en Enseñanza Básica</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU007 (%) Porcentaje de Retiro de Alumnos de Establecimientos Municipales en Enseñanza Media</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPRM (N°) Número de alumnos de 4º medio de colegios municipales que rindieron la PSU por primera vez</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPRP (N°) Número de alumnos de 4º medio de colegios particulares que rindieron la PSU por primera vez</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPRPS (N°) Número de alumnos de 4º medio de colegios particulares subvencionados que rindieron la PSU por primera vez</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPPSM (N°) Número de PSU igual o superior a 450 puntos (que rinde la prueba por primera vez) en colegios municipales</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPPSP (N°) Número de PSU igual o superior a 450 puntos (que rinde la prueba por primera vez) en colegios particulares pagados</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">UPPSPS (N°) Número de PSU igual o superior a 450 puntos (que rinde la prueba por primera vez) en colegios particulares subvencionados</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU011 (%) Porcentaje de Puntajes PSU Igual o Superior a 450 Puntos en Establecimientos Municipales de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU013 (%) Porcentaje de Puntajes PSU Igual o Superior a 450 Puntos en Establecimientos Particulares Pagados de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU012 (%) Porcentaje de Puntajes PSU Igual o Superior a 450 Puntos en Establecimientos  Particulares Subvencionados de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU019 (%) Aporte del MINEDUC (Subvención) respecto al Ingreso Total Percibido Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU020 (M$) Aporte Municipal al Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU022 (%) Aporte Municipal al Sector Educación respecto al Ingreso Total Percibido Municipal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU021 (%) Aporte Municipal al Sector Educación respecto al Ingreso Total Percibido Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">RFNDRE (M$) Fondo Nacional de Desarrollo Regional (FNDR) a Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU016 (M$) Ingresos Educación  (Ingreso Total Percibido)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU999 (M$) Ingresos Educación (Ingreso Total Percibido) sin Saldo Inicial de Caja</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU017 (M$) Ingresos Totales de Educación Municipal descontadas las Transferencias del Municipio a Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BPIIE (M$) Presupuesto Inicial Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BPVESALINI (M$) Presupuesto Vigente Saldo Inicial de Caja Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BPVIE (M$) Presupuesto Vigente Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU018 (M$) Subvención de Escolaridad (del Mineduc)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU023 (%) Transferencias Municipales a Educación sobre Ingresos Propios Municipales</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU026 (M$) Gasto en Personal del Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU029 (M$) Gastos de Funcionamiento del Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU025 (M$) Gastos Educación (Gasto Total Devengado)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU031 (M$) Inversión Real Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU030 (%) Porcentaje de Gastos en Funcionamiento del Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU028 (%) Porcentaje de Gastos en Personal del Area Educación respecto del Aporte de Subvención MINEDUC</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU027 (%) Porcentaje de Gastos en Personal del Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU032 (%) Porcentaje de Inversión sobre Gasto Total de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BPIGE (M$) Presupuesto Inicial Gastos Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">BPVGE (M$) Presupuesto Vigente Gastos Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DTPND (PERS) Asistentes Adscritos a Establecimientos de Educación Municipal (Fuente: MINEDUC desde 2011)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DNDA (N°) Docentes de Aula Contratados (Fuente: MINEDUC)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU042.1 (M$) Gasto en Personal a Contrata Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU043.1 (M$) Gasto en Personal a Honorarios del Sector Educación (Subtítulo 21.03)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU043.2 (M$) Gasto en Personal a Honorarios Suma Alzada y Asimilados a Grado del Sector Educación (sólo 21.03.001 y 21.03.002) </Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU040.1 (M$) Gasto en Personal de Planta Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU026.1 (M$) Gasto Total en Personal del Sector Educación (Subtítulo 21)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU035 (PERS) Número de Alumnos por Docente de Aula (Fuente: MINEDUC)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTPATSLE (Nº) Número de Personal en educación antes del traspaso al Servicio Local de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTPDTSLE (Nº) Número de Personal en educación que quedó contratado en el municipio después del traspaso al Servicio Local de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTPTSLE (Nº) Número de Personal en educación traspasados al Servicio Local de Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU042 (N°) Personal a Contrata Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">DTPAEE (N°) Personal Adscrito a Establecimientos de Educación Municipal (Fuente: MINEDUC desde 2011)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU043 (N°) Personal a Honorarios Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTPND (N°) Personal Asistente de la Educación Municipal (No Docente)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU041 (N°) Personal Código del Trabajo Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU040 (N°) Personal de Planta Sector Educación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTPD (N°) Personal Docente</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MPECT (N°) Personal Honorarios en Prestaciones Serv. Programas Comunitarios Sector Educación (cta. pres. 21.04.004.000)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU039 (PERS) Personal Sector Educación (Planta y Contrata) (desde 2008)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU036 (%) Porcentaje Personal Docente respecto al Personal del Área Educación (Fuente: Encuesta Municipal)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU037 (PERS) Relación Personal Docente vs. Personal No Docente del Sector Educación (Fuente: Encuesta Municipal)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTEMCR (N°) Número de Establecimientos de Educación Municipal en Áreas Rurales</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTEMCU (N°) Número de Establecimientos de Educación Municipal en Áreas Urbanas</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">IEDU002 (N°) Número de Establecimientos  de Educación Municipal  (rurales y urbanos)</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTEPRC (Nº) Número de Establecimientos educacionales de propiedad de la corporación</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">MTEPRM (Nº) Número de Establecimientos educacionales de propiedad municipal</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">CODIGO</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">MUNICIPIO</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">2020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9101</Data></Cell>
+    <Cell><Data ss:Type="String">TEMUCO</Data></Cell>
+    <Cell><Data ss:Type="Number">57027</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">27.39</Data></Cell>
+    <Cell><Data ss:Type="Number">33972</Data></Cell>
+    <Cell><Data ss:Type="Number">19696</Data></Cell>
+    <Cell><Data ss:Type="Number">8877</Data></Cell>
+    <Cell><Data ss:Type="Number">4675</Data></Cell>
+    <Cell><Data ss:Type="Number">15620</Data></Cell>
+    <Cell><Data ss:Type="Number">5491</Data></Cell>
+    <Cell><Data ss:Type="Number">41035</Data></Cell>
+    <Cell><Data ss:Type="Number">18337</Data></Cell>
+    <Cell><Data ss:Type="Number">87.76</Data></Cell>
+    <Cell><Data ss:Type="Number">0.09</Data></Cell>
+    <Cell><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell><Data ss:Type="Number">942</Data></Cell>
+    <Cell><Data ss:Type="Number">335</Data></Cell>
+    <Cell><Data ss:Type="Number">2631</Data></Cell>
+    <Cell><Data ss:Type="Number">630</Data></Cell>
+    <Cell><Data ss:Type="Number">316</Data></Cell>
+    <Cell><Data ss:Type="Number">1884</Data></Cell>
+    <Cell><Data ss:Type="Number">66.88</Data></Cell>
+    <Cell><Data ss:Type="Number">94.33</Data></Cell>
+    <Cell><Data ss:Type="Number">71.61</Data></Cell>
+    <Cell><Data ss:Type="Number">34.409999999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.24</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">42532635</Data></Cell>
+    <Cell><Data ss:Type="Number">42532635</Data></Cell>
+    <Cell><Data ss:Type="Number">42432635</Data></Cell>
+    <Cell><Data ss:Type="Number">39869445</Data></Cell>
+    <Cell><Data ss:Type="Number">5842058</Data></Cell>
+    <Cell><Data ss:Type="Number">49458981</Data></Cell>
+    <Cell><Data ss:Type="Number">14636729</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23</Data></Cell>
+    <Cell><Data ss:Type="Number">32264035</Data></Cell>
+    <Cell><Data ss:Type="Number">3624042</Data></Cell>
+    <Cell><Data ss:Type="Number">37816166</Data></Cell>
+    <Cell><Data ss:Type="Number">556171</Data></Cell>
+    <Cell><Data ss:Type="Number">9.7899999999999991</Data></Cell>
+    <Cell><Data ss:Type="Number">220.43</Data></Cell>
+    <Cell><Data ss:Type="Number">85.32</Data></Cell>
+    <Cell><Data ss:Type="Number">1.47</Data></Cell>
+    <Cell><Data ss:Type="Number">39869445</Data></Cell>
+    <Cell><Data ss:Type="Number">49458981</Data></Cell>
+    <Cell><Data ss:Type="Number">957</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">8601544</Data></Cell>
+    <Cell><Data ss:Type="Number">12157293</Data></Cell>
+    <Cell><Data ss:Type="Number">4550</Data></Cell>
+    <Cell><Data ss:Type="Number">11505198</Data></Cell>
+    <Cell><Data ss:Type="Number">32264035</Data></Cell>
+    <Cell><Data ss:Type="Number">18.34</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">605</Data></Cell>
+    <Cell><Data ss:Type="Number">2175</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">839</Data></Cell>
+    <Cell><Data ss:Type="Number">1358</Data></Cell>
+    <Cell><Data ss:Type="Number">622</Data></Cell>
+    <Cell><Data ss:Type="Number">1224</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1227</Data></Cell>
+    <Cell><Data ss:Type="Number">59.33</Data></Cell>
+    <Cell><Data ss:Type="Number">1.46</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9102</Data></Cell>
+    <Cell><Data ss:Type="String">CARAHUE</Data></Cell>
+    <Cell><Data ss:Type="Number">4800</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Administra MINEDUC</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3153</Data></Cell>
+    <Cell><Data ss:Type="Number">1606</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2209</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">48.08</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9103</Data></Cell>
+    <Cell><Data ss:Type="String">CUNCO</Data></Cell>
+    <Cell><Data ss:Type="Number">3206</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">49.56</Data></Cell>
+    <Cell><Data ss:Type="Number">1917</Data></Cell>
+    <Cell><Data ss:Type="Number">999</Data></Cell>
+    <Cell><Data ss:Type="Number">910</Data></Cell>
+    <Cell><Data ss:Type="Number">514</Data></Cell>
+    <Cell><Data ss:Type="Number">1589</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1760</Data></Cell>
+    <Cell><Data ss:Type="Number">1882</Data></Cell>
+    <Cell><Data ss:Type="Number">90.81</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">51</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="Number">57.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">36.51</Data></Cell>
+    <Cell><Data ss:Type="Number">37.25</Data></Cell>
+    <Cell><Data ss:Type="Number">1200</Data></Cell>
+    <Cell><Data ss:Type="Number">0.02</Data></Cell>
+    <Cell><Data ss:Type="Number">0.02</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">5739350</Data></Cell>
+    <Cell><Data ss:Type="Number">5739350</Data></Cell>
+    <Cell><Data ss:Type="Number">5738150</Data></Cell>
+    <Cell><Data ss:Type="Number">5950000</Data></Cell>
+    <Cell><Data ss:Type="Number">750281</Data></Cell>
+    <Cell><Data ss:Type="Number">7186381</Data></Cell>
+    <Cell><Data ss:Type="Number">2137962</Data></Cell>
+    <Cell><Data ss:Type="Number">0.03</Data></Cell>
+    <Cell><Data ss:Type="Number">4623570</Data></Cell>
+    <Cell><Data ss:Type="Number">444349</Data></Cell>
+    <Cell><Data ss:Type="Number">5672742</Data></Cell>
+    <Cell><Data ss:Type="Number">245956</Data></Cell>
+    <Cell><Data ss:Type="Number">7.97</Data></Cell>
+    <Cell><Data ss:Type="Number">216.26</Data></Cell>
+    <Cell><Data ss:Type="Number">81.510000000000005</Data></Cell>
+    <Cell><Data ss:Type="Number">4.34</Data></Cell>
+    <Cell><Data ss:Type="Number">5950000</Data></Cell>
+    <Cell><Data ss:Type="Number">7186381</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">123</Data></Cell>
+    <Cell><Data ss:Type="Number">1072631</Data></Cell>
+    <Cell><Data ss:Type="Number">1542842</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2008097</Data></Cell>
+    <Cell><Data ss:Type="Number">4623570</Data></Cell>
+    <Cell><Data ss:Type="Number">15.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="Number">276</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="Number">156</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">161</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">1.08</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9104</Data></Cell>
+    <Cell><Data ss:Type="String">CURARREHUE</Data></Cell>
+    <Cell><Data ss:Type="Number">1627</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">38.78</Data></Cell>
+    <Cell><Data ss:Type="Number">933</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="Number">631</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">713</Data></Cell>
+    <Cell><Data ss:Type="Number">852</Data></Cell>
+    <Cell><Data ss:Type="Number">80.400000000000006</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7.58</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">33.020000000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">332991</Data></Cell>
+    <Cell><Data ss:Type="Number">12.46</Data></Cell>
+    <Cell><Data ss:Type="Number">12.55</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">2653921</Data></Cell>
+    <Cell><Data ss:Type="Number">2653921</Data></Cell>
+    <Cell><Data ss:Type="Number">2320930</Data></Cell>
+    <Cell><Data ss:Type="Number">2352020</Data></Cell>
+    <Cell><Data ss:Type="Number">429517</Data></Cell>
+    <Cell><Data ss:Type="Number">3131447</Data></Cell>
+    <Cell><Data ss:Type="Number">876249</Data></Cell>
+    <Cell><Data ss:Type="Number">16.18</Data></Cell>
+    <Cell><Data ss:Type="Number">2252954</Data></Cell>
+    <Cell><Data ss:Type="Number">130485</Data></Cell>
+    <Cell><Data ss:Type="Number">2490770</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.32</Data></Cell>
+    <Cell><Data ss:Type="Number">257.11</Data></Cell>
+    <Cell><Data ss:Type="Number">90.45</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2352020</Data></Cell>
+    <Cell><Data ss:Type="Number">3131447</Data></Cell>
+    <Cell><Data ss:Type="Number">63</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="Number">486629</Data></Cell>
+    <Cell><Data ss:Type="Number">593623</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1172702</Data></Cell>
+    <Cell><Data ss:Type="Number">2252954</Data></Cell>
+    <Cell><Data ss:Type="Number">11.51</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="Number">54.82</Data></Cell>
+    <Cell><Data ss:Type="Number">1.21</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9105</Data></Cell>
+    <Cell><Data ss:Type="String">FREIRE</Data></Cell>
+    <Cell><Data ss:Type="Number">4828</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">31.17</Data></Cell>
+    <Cell><Data ss:Type="Number">2365</Data></Cell>
+    <Cell><Data ss:Type="Number">701</Data></Cell>
+    <Cell><Data ss:Type="Number">854</Data></Cell>
+    <Cell><Data ss:Type="Number">451</Data></Cell>
+    <Cell><Data ss:Type="Number">1505</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2040</Data></Cell>
+    <Cell><Data ss:Type="Number">1962</Data></Cell>
+    <Cell><Data ss:Type="Number">88.79</Data></Cell>
+    <Cell><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell><Data ss:Type="Number">2.14</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">33.33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">53.13</Data></Cell>
+    <Cell><Data ss:Type="Number">22.21</Data></Cell>
+    <Cell><Data ss:Type="Number">124000</Data></Cell>
+    <Cell><Data ss:Type="Number">2.1</Data></Cell>
+    <Cell><Data ss:Type="Number">2.0099999999999998</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">6180892</Data></Cell>
+    <Cell><Data ss:Type="Number">6180892</Data></Cell>
+    <Cell><Data ss:Type="Number">6056892</Data></Cell>
+    <Cell><Data ss:Type="Number">6366735</Data></Cell>
+    <Cell><Data ss:Type="Number">1527606</Data></Cell>
+    <Cell><Data ss:Type="Number">8052927</Data></Cell>
+    <Cell><Data ss:Type="Number">1372507</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4700000000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">4687156</Data></Cell>
+    <Cell><Data ss:Type="Number">857360</Data></Cell>
+    <Cell><Data ss:Type="Number">5961308</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14.61</Data></Cell>
+    <Cell><Data ss:Type="Number">341.5</Data></Cell>
+    <Cell><Data ss:Type="Number">78.63</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6366735</Data></Cell>
+    <Cell><Data ss:Type="Number">8052927</Data></Cell>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="Number">126</Data></Cell>
+    <Cell><Data ss:Type="Number">1174295</Data></Cell>
+    <Cell><Data ss:Type="Number">2008190</Data></Cell>
+    <Cell><Data ss:Type="Number">3250</Data></Cell>
+    <Cell><Data ss:Type="Number">1504671</Data></Cell>
+    <Cell><Data ss:Type="Number">4687156</Data></Cell>
+    <Cell><Data ss:Type="Number">15.57</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">310</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">148</Data></Cell>
+    <Cell><Data ss:Type="Number">148</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">162</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">162</Data></Cell>
+    <Cell><Data ss:Type="Number">52.26</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0900000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9106</Data></Cell>
+    <Cell><Data ss:Type="String">GALVARINO</Data></Cell>
+    <Cell><Data ss:Type="Number">2545</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">73.239999999999995</Data></Cell>
+    <Cell><Data ss:Type="Number">1575</Data></Cell>
+    <Cell><Data ss:Type="Number">562</Data></Cell>
+    <Cell><Data ss:Type="Number">1224</Data></Cell>
+    <Cell><Data ss:Type="Number">416</Data></Cell>
+    <Cell><Data ss:Type="Number">1864</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">573</Data></Cell>
+    <Cell><Data ss:Type="Number">2407</Data></Cell>
+    <Cell><Data ss:Type="Number">90.28</Data></Cell>
+    <Cell><Data ss:Type="Number">0.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.53</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">51.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">35.71</Data></Cell>
+    <Cell><Data ss:Type="Number">51.4</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7060694</Data></Cell>
+    <Cell><Data ss:Type="Number">7060694</Data></Cell>
+    <Cell><Data ss:Type="Number">7060694</Data></Cell>
+    <Cell><Data ss:Type="Number">7161370</Data></Cell>
+    <Cell><Data ss:Type="Number">1045981</Data></Cell>
+    <Cell><Data ss:Type="Number">8582233</Data></Cell>
+    <Cell><Data ss:Type="Number">3629124</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6132075</Data></Cell>
+    <Cell><Data ss:Type="Number">707879</Data></Cell>
+    <Cell><Data ss:Type="Number">7320088</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">9.8800000000000008</Data></Cell>
+    <Cell><Data ss:Type="Number">168.97</Data></Cell>
+    <Cell><Data ss:Type="Number">83.77</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7161370</Data></Cell>
+    <Cell><Data ss:Type="Number">8582233</Data></Cell>
+    <Cell><Data ss:Type="Number">180</Data></Cell>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell><Data ss:Type="Number">1068037</Data></Cell>
+    <Cell><Data ss:Type="Number">2147797</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2916241</Data></Cell>
+    <Cell><Data ss:Type="Number">6132075</Data></Cell>
+    <Cell><Data ss:Type="Number">13.99</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">390</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9107</Data></Cell>
+    <Cell><Data ss:Type="String">GORBEA</Data></Cell>
+    <Cell><Data ss:Type="Number">2602</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">60.38</Data></Cell>
+    <Cell><Data ss:Type="Number">1412</Data></Cell>
+    <Cell><Data ss:Type="Number">296</Data></Cell>
+    <Cell><Data ss:Type="Number">1079</Data></Cell>
+    <Cell><Data ss:Type="Number">296</Data></Cell>
+    <Cell><Data ss:Type="Number">1571</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">458</Data></Cell>
+    <Cell><Data ss:Type="Number">2021</Data></Cell>
+    <Cell><Data ss:Type="Number">89.61</Data></Cell>
+    <Cell><Data ss:Type="Number">7.0000000000000007E-2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.68</Data></Cell>
+    <Cell><Data ss:Type="Number">43</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">34.880000000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">51.09</Data></Cell>
+    <Cell><Data ss:Type="Number">294000</Data></Cell>
+    <Cell><Data ss:Type="Number">6.86</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">6124951</Data></Cell>
+    <Cell><Data ss:Type="Number">6124951</Data></Cell>
+    <Cell><Data ss:Type="Number">5830951</Data></Cell>
+    <Cell><Data ss:Type="Number">4554671</Data></Cell>
+    <Cell><Data ss:Type="Number">634918</Data></Cell>
+    <Cell><Data ss:Type="Number">7233525</Data></Cell>
+    <Cell><Data ss:Type="Number">3129359</Data></Cell>
+    <Cell><Data ss:Type="Number">9.0399999999999991</Data></Cell>
+    <Cell><Data ss:Type="Number">5079740</Data></Cell>
+    <Cell><Data ss:Type="Number">327691</Data></Cell>
+    <Cell><Data ss:Type="Number">5600498</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.98</Data></Cell>
+    <Cell><Data ss:Type="Number">162.33000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">90.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4554671</Data></Cell>
+    <Cell><Data ss:Type="Number">7233525</Data></Cell>
+    <Cell><Data ss:Type="Number">154</Data></Cell>
+    <Cell><Data ss:Type="Number">147</Data></Cell>
+    <Cell><Data ss:Type="Number">1176882</Data></Cell>
+    <Cell><Data ss:Type="Number">1633154</Data></Cell>
+    <Cell><Data ss:Type="Number">1006</Data></Cell>
+    <Cell><Data ss:Type="Number">2269704</Data></Cell>
+    <Cell><Data ss:Type="Number">5079740</Data></Cell>
+    <Cell><Data ss:Type="Number">13.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="Number">335</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">201</Data></Cell>
+    <Cell><Data ss:Type="Number">209</Data></Cell>
+    <Cell><Data ss:Type="Number">115</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">193</Data></Cell>
+    <Cell><Data ss:Type="Number">49.88</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9108</Data></Cell>
+    <Cell><Data ss:Type="String">LAUTARO</Data></Cell>
+    <Cell><Data ss:Type="Number">8220</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">58.39</Data></Cell>
+    <Cell><Data ss:Type="Number">4712</Data></Cell>
+    <Cell><Data ss:Type="Number">1668</Data></Cell>
+    <Cell><Data ss:Type="Number">2666</Data></Cell>
+    <Cell><Data ss:Type="Number">1668</Data></Cell>
+    <Cell><Data ss:Type="Number">4800</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2814</Data></Cell>
+    <Cell><Data ss:Type="Number">5640</Data></Cell>
+    <Cell><Data ss:Type="Number">88.17</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.24</Data></Cell>
+    <Cell><Data ss:Type="Number">230</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">38.700000000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">30.41</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+    <Cell><Data ss:Type="Number">1.03</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">13882684</Data></Cell>
+    <Cell><Data ss:Type="Number">13882684</Data></Cell>
+    <Cell><Data ss:Type="Number">13782684</Data></Cell>
+    <Cell><Data ss:Type="Number">14383412</Data></Cell>
+    <Cell><Data ss:Type="Number">2149153</Data></Cell>
+    <Cell><Data ss:Type="Number">15936769</Data></Cell>
+    <Cell><Data ss:Type="Number">4221070</Data></Cell>
+    <Cell><Data ss:Type="Number">1.35</Data></Cell>
+    <Cell><Data ss:Type="Number">10718649</Data></Cell>
+    <Cell><Data ss:Type="Number">1504392</Data></Cell>
+    <Cell><Data ss:Type="Number">12875240</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.9</Data></Cell>
+    <Cell><Data ss:Type="Number">253.93</Data></Cell>
+    <Cell><Data ss:Type="Number">83.25</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14383412</Data></Cell>
+    <Cell><Data ss:Type="Number">15936767</Data></Cell>
+    <Cell><Data ss:Type="Number">325</Data></Cell>
+    <Cell><Data ss:Type="Number">310</Data></Cell>
+    <Cell><Data ss:Type="Number">2514348</Data></Cell>
+    <Cell><Data ss:Type="Number">3768863</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4435438</Data></Cell>
+    <Cell><Data ss:Type="Number">10718649</Data></Cell>
+    <Cell><Data ss:Type="Number">18.190000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="Number">712</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">457</Data></Cell>
+    <Cell><Data ss:Type="Number">457</Data></Cell>
+    <Cell><Data ss:Type="Number">243</Data></Cell>
+    <Cell><Data ss:Type="Number">395</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">395</Data></Cell>
+    <Cell><Data ss:Type="Number">46.36</Data></Cell>
+    <Cell><Data ss:Type="Number">0.86</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9109</Data></Cell>
+    <Cell><Data ss:Type="String">LONCOCHE</Data></Cell>
+    <Cell><Data ss:Type="Number">4790</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">52.76</Data></Cell>
+    <Cell><Data ss:Type="Number">2655</Data></Cell>
+    <Cell><Data ss:Type="Number">1089</Data></Cell>
+    <Cell><Data ss:Type="Number">1404</Data></Cell>
+    <Cell><Data ss:Type="Number">806</Data></Cell>
+    <Cell><Data ss:Type="Number">2527</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1879</Data></Cell>
+    <Cell><Data ss:Type="Number">2984</Data></Cell>
+    <Cell><Data ss:Type="Number">88.91</Data></Cell>
+    <Cell><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell><Data ss:Type="Number">0.37</Data></Cell>
+    <Cell><Data ss:Type="Number">127</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">53</Data></Cell>
+    <Cell><Data ss:Type="Number">83</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="Number">65.349999999999994</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">67.92</Data></Cell>
+    <Cell><Data ss:Type="Number">41.5</Data></Cell>
+    <Cell><Data ss:Type="Number">11000</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14000000000000001</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7783356</Data></Cell>
+    <Cell><Data ss:Type="Number">7783356</Data></Cell>
+    <Cell><Data ss:Type="Number">7772356</Data></Cell>
+    <Cell><Data ss:Type="Number">6288350</Data></Cell>
+    <Cell><Data ss:Type="Number">1081205</Data></Cell>
+    <Cell><Data ss:Type="Number">9146384</Data></Cell>
+    <Cell><Data ss:Type="Number">3230443</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell><Data ss:Type="Number">6062416</Data></Cell>
+    <Cell><Data ss:Type="Number">696137</Data></Cell>
+    <Cell><Data ss:Type="Number">7411046</Data></Cell>
+    <Cell><Data ss:Type="Number">220999</Data></Cell>
+    <Cell><Data ss:Type="Number">9.7100000000000009</Data></Cell>
+    <Cell><Data ss:Type="Number">187.67</Data></Cell>
+    <Cell><Data ss:Type="Number">81.8</Data></Cell>
+    <Cell><Data ss:Type="Number">2.98</Data></Cell>
+    <Cell><Data ss:Type="Number">6288350</Data></Cell>
+    <Cell><Data ss:Type="Number">9146384</Data></Cell>
+    <Cell><Data ss:Type="Number">171</Data></Cell>
+    <Cell><Data ss:Type="Number">217</Data></Cell>
+    <Cell><Data ss:Type="Number">1703252</Data></Cell>
+    <Cell><Data ss:Type="Number">1556828</Data></Cell>
+    <Cell><Data ss:Type="Number">1076</Data></Cell>
+    <Cell><Data ss:Type="Number">2802336</Data></Cell>
+    <Cell><Data ss:Type="Number">6062416</Data></Cell>
+    <Cell><Data ss:Type="Number">13.75</Data></Cell>
+    <Cell><Data ss:Type="Number">459</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="Number">431</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">172</Data></Cell>
+    <Cell><Data ss:Type="Number">201</Data></Cell>
+    <Cell><Data ss:Type="Number">146</Data></Cell>
+    <Cell><Data ss:Type="Number">258</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">258</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9110</Data></Cell>
+    <Cell><Data ss:Type="String">MELIPEUCO</Data></Cell>
+    <Cell><Data ss:Type="Number">1138</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">42.71</Data></Cell>
+    <Cell><Data ss:Type="Number">700</Data></Cell>
+    <Cell><Data ss:Type="Number">237</Data></Cell>
+    <Cell><Data ss:Type="Number">273</Data></Cell>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="Number">486</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">576</Data></Cell>
+    <Cell><Data ss:Type="Number">573</Data></Cell>
+    <Cell><Data ss:Type="Number">88.13</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">41.67</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">33.33</Data></Cell>
+    <Cell><Data ss:Type="Number">41.23</Data></Cell>
+    <Cell><Data ss:Type="Number">50000</Data></Cell>
+    <Cell><Data ss:Type="Number">1.44</Data></Cell>
+    <Cell><Data ss:Type="Number">2.86</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">1749124</Data></Cell>
+    <Cell><Data ss:Type="Number">1749124</Data></Cell>
+    <Cell><Data ss:Type="Number">1699124</Data></Cell>
+    <Cell><Data ss:Type="Number">1374253</Data></Cell>
+    <Cell><Data ss:Type="Number">448264</Data></Cell>
+    <Cell><Data ss:Type="Number">2167605</Data></Cell>
+    <Cell><Data ss:Type="Number">721145</Data></Cell>
+    <Cell><Data ss:Type="Number">2.08</Data></Cell>
+    <Cell><Data ss:Type="Number">1408260</Data></Cell>
+    <Cell><Data ss:Type="Number">146305</Data></Cell>
+    <Cell><Data ss:Type="Number">1628927</Data></Cell>
+    <Cell><Data ss:Type="Number">6360</Data></Cell>
+    <Cell><Data ss:Type="Number">9.3000000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">195.28</Data></Cell>
+    <Cell><Data ss:Type="Number">86.45</Data></Cell>
+    <Cell><Data ss:Type="Number">0.39</Data></Cell>
+    <Cell><Data ss:Type="Number">1374253</Data></Cell>
+    <Cell><Data ss:Type="Number">2167605</Data></Cell>
+    <Cell><Data ss:Type="Number">41</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="Number">237818</Data></Cell>
+    <Cell><Data ss:Type="Number">530012</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">640430</Data></Cell>
+    <Cell><Data ss:Type="Number">1408260</Data></Cell>
+    <Cell><Data ss:Type="Number">17.91</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">84</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">46.53</Data></Cell>
+    <Cell><Data ss:Type="Number">0.87</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9111</Data></Cell>
+    <Cell><Data ss:Type="String">NUEVA IMPERIAL</Data></Cell>
+    <Cell><Data ss:Type="Number">6800</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Administra MINEDUC</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4053</Data></Cell>
+    <Cell><Data ss:Type="Number">2153</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4504</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">153</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="Number">23.91</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">44.44</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">755857</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9112</Data></Cell>
+    <Cell><Data ss:Type="String">PADRE LAS CASAS</Data></Cell>
+    <Cell><Data ss:Type="Number">17194</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">9.0500000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">8124</Data></Cell>
+    <Cell><Data ss:Type="Number">1926</Data></Cell>
+    <Cell><Data ss:Type="Number">1233</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1556</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">10521</Data></Cell>
+    <Cell><Data ss:Type="Number">1996</Data></Cell>
+    <Cell><Data ss:Type="Number">90.93</Data></Cell>
+    <Cell><Data ss:Type="Number">0.01</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">211</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">44.08</Data></Cell>
+    <Cell><Data ss:Type="Number">22.62</Data></Cell>
+    <Cell><Data ss:Type="Number">433487</Data></Cell>
+    <Cell><Data ss:Type="Number">2.83</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">8253884</Data></Cell>
+    <Cell><Data ss:Type="Number">8253884</Data></Cell>
+    <Cell><Data ss:Type="Number">7820397</Data></Cell>
+    <Cell><Data ss:Type="Number">7799254</Data></Cell>
+    <Cell><Data ss:Type="Number">748325</Data></Cell>
+    <Cell><Data ss:Type="Number">9983390</Data></Cell>
+    <Cell><Data ss:Type="Number">1867287</Data></Cell>
+    <Cell><Data ss:Type="Number">3.77</Data></Cell>
+    <Cell><Data ss:Type="Number">6500966</Data></Cell>
+    <Cell><Data ss:Type="Number">945488</Data></Cell>
+    <Cell><Data ss:Type="Number">7863439</Data></Cell>
+    <Cell><Data ss:Type="Number">167344</Data></Cell>
+    <Cell><Data ss:Type="Number">12.26</Data></Cell>
+    <Cell><Data ss:Type="Number">348.15</Data></Cell>
+    <Cell><Data ss:Type="Number">82.67</Data></Cell>
+    <Cell><Data ss:Type="Number">2.13</Data></Cell>
+    <Cell><Data ss:Type="Number">7799254</Data></Cell>
+    <Cell><Data ss:Type="Number">9983390</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="Number">1734361</Data></Cell>
+    <Cell><Data ss:Type="Number">3056684</Data></Cell>
+    <Cell><Data ss:Type="Number">16674</Data></Cell>
+    <Cell><Data ss:Type="Number">1709921</Data></Cell>
+    <Cell><Data ss:Type="Number">6500966</Data></Cell>
+    <Cell><Data ss:Type="Number">11.15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="Number">312</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell><Data ss:Type="Number">330</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">212</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">212</Data></Cell>
+    <Cell><Data ss:Type="Number">60.4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.53</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9113</Data></Cell>
+    <Cell><Data ss:Type="String">PERQUENCO</Data></Cell>
+    <Cell><Data ss:Type="Number">1429</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">73.34</Data></Cell>
+    <Cell><Data ss:Type="Number">861</Data></Cell>
+    <Cell><Data ss:Type="Number">401</Data></Cell>
+    <Cell><Data ss:Type="Number">591</Data></Cell>
+    <Cell><Data ss:Type="Number">276</Data></Cell>
+    <Cell><Data ss:Type="Number">1048</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">414</Data></Cell>
+    <Cell><Data ss:Type="Number">1306</Data></Cell>
+    <Cell><Data ss:Type="Number">87.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0.12</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">31.48</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">53.89</Data></Cell>
+    <Cell><Data ss:Type="Number">100000</Data></Cell>
+    <Cell><Data ss:Type="Number">3.34</Data></Cell>
+    <Cell><Data ss:Type="Number">2.89</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">3462448</Data></Cell>
+    <Cell><Data ss:Type="Number">3462448</Data></Cell>
+    <Cell><Data ss:Type="Number">3362448</Data></Cell>
+    <Cell><Data ss:Type="Number">3420208</Data></Cell>
+    <Cell><Data ss:Type="Number">522700</Data></Cell>
+    <Cell><Data ss:Type="Number">3984842</Data></Cell>
+    <Cell><Data ss:Type="Number">1865882</Data></Cell>
+    <Cell><Data ss:Type="Number">3.83</Data></Cell>
+    <Cell><Data ss:Type="Number">2734994</Data></Cell>
+    <Cell><Data ss:Type="Number">334416</Data></Cell>
+    <Cell><Data ss:Type="Number">3198203</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">10.52</Data></Cell>
+    <Cell><Data ss:Type="Number">146.58000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">85.52</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3420208</Data></Cell>
+    <Cell><Data ss:Type="Number">3984842</Data></Cell>
+    <Cell><Data ss:Type="Number">75</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="Number">719035</Data></Cell>
+    <Cell><Data ss:Type="Number">903607</Data></Cell>
+    <Cell><Data ss:Type="Number">13810</Data></Cell>
+    <Cell><Data ss:Type="Number">1112352</Data></Cell>
+    <Cell><Data ss:Type="Number">2734994</Data></Cell>
+    <Cell><Data ss:Type="Number">14.51</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="Number">181</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="Number">88</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">112</Data></Cell>
+    <Cell><Data ss:Type="Number">56</Data></Cell>
+    <Cell><Data ss:Type="Number">1.27</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9114</Data></Cell>
+    <Cell><Data ss:Type="String">PITRUFQUÉN</Data></Cell>
+    <Cell><Data ss:Type="Number">4893</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">33.93</Data></Cell>
+    <Cell><Data ss:Type="Number">3194</Data></Cell>
+    <Cell><Data ss:Type="Number">2542</Data></Cell>
+    <Cell><Data ss:Type="Number">913</Data></Cell>
+    <Cell><Data ss:Type="Number">515</Data></Cell>
+    <Cell><Data ss:Type="Number">1660</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4806</Data></Cell>
+    <Cell><Data ss:Type="Number">2127</Data></Cell>
+    <Cell><Data ss:Type="Number">94.36</Data></Cell>
+    <Cell><Data ss:Type="Number">0.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell><Data ss:Type="Number">108</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">277</Data></Cell>
+    <Cell><Data ss:Type="Number">66</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">155</Data></Cell>
+    <Cell><Data ss:Type="Number">61.11</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">55.96</Data></Cell>
+    <Cell><Data ss:Type="Number">58.71</Data></Cell>
+    <Cell><Data ss:Type="Number">316000</Data></Cell>
+    <Cell><Data ss:Type="Number">5.99</Data></Cell>
+    <Cell><Data ss:Type="Number">4.4800000000000004</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7053688</Data></Cell>
+    <Cell><Data ss:Type="Number">7053688</Data></Cell>
+    <Cell><Data ss:Type="Number">6737688</Data></Cell>
+    <Cell><Data ss:Type="Number">5487045</Data></Cell>
+    <Cell><Data ss:Type="Number">284698</Data></Cell>
+    <Cell><Data ss:Type="Number">6916374</Data></Cell>
+    <Cell><Data ss:Type="Number">4141392</Data></Cell>
+    <Cell><Data ss:Type="Number">6.9</Data></Cell>
+    <Cell><Data ss:Type="Number">5461871</Data></Cell>
+    <Cell><Data ss:Type="Number">785141</Data></Cell>
+    <Cell><Data ss:Type="Number">6555402</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">12.48</Data></Cell>
+    <Cell><Data ss:Type="Number">131.88</Data></Cell>
+    <Cell><Data ss:Type="Number">83.32</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5487045</Data></Cell>
+    <Cell><Data ss:Type="Number">6916374</Data></Cell>
+    <Cell><Data ss:Type="Number">125</Data></Cell>
+    <Cell><Data ss:Type="Number">165</Data></Cell>
+    <Cell><Data ss:Type="Number">1625921</Data></Cell>
+    <Cell><Data ss:Type="Number">1939666</Data></Cell>
+    <Cell><Data ss:Type="Number">74904</Data></Cell>
+    <Cell><Data ss:Type="Number">1896284</Data></Cell>
+    <Cell><Data ss:Type="Number">5461871</Data></Cell>
+    <Cell><Data ss:Type="Number">12.89</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">324</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell><Data ss:Type="Number">139</Data></Cell>
+    <Cell><Data ss:Type="Number">117</Data></Cell>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell><Data ss:Type="Number">57.49</Data></Cell>
+    <Cell><Data ss:Type="Number">1.35</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9115</Data></Cell>
+    <Cell><Data ss:Type="String">PUCÓN</Data></Cell>
+    <Cell><Data ss:Type="Number">5729</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">44.28</Data></Cell>
+    <Cell><Data ss:Type="Number">3506</Data></Cell>
+    <Cell><Data ss:Type="Number">1553</Data></Cell>
+    <Cell><Data ss:Type="Number">1642</Data></Cell>
+    <Cell><Data ss:Type="Number">592</Data></Cell>
+    <Cell><Data ss:Type="Number">2537</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3317</Data></Cell>
+    <Cell><Data ss:Type="Number">3054</Data></Cell>
+    <Cell><Data ss:Type="Number">88.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0.26</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="Number">57.69</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">61.74</Data></Cell>
+    <Cell><Data ss:Type="Number">58.64</Data></Cell>
+    <Cell><Data ss:Type="Number">629308</Data></Cell>
+    <Cell><Data ss:Type="Number">6.34</Data></Cell>
+    <Cell><Data ss:Type="Number">7.82</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">8045826</Data></Cell>
+    <Cell><Data ss:Type="Number">8045826</Data></Cell>
+    <Cell><Data ss:Type="Number">7416518</Data></Cell>
+    <Cell><Data ss:Type="Number">7917694</Data></Cell>
+    <Cell><Data ss:Type="Number">140489</Data></Cell>
+    <Cell><Data ss:Type="Number">8457553</Data></Cell>
+    <Cell><Data ss:Type="Number">4718426</Data></Cell>
+    <Cell><Data ss:Type="Number">8.1300000000000008</Data></Cell>
+    <Cell><Data ss:Type="Number">7369327</Data></Cell>
+    <Cell><Data ss:Type="Number">603830</Data></Cell>
+    <Cell><Data ss:Type="Number">8058240</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7.54</Data></Cell>
+    <Cell><Data ss:Type="Number">156.18</Data></Cell>
+    <Cell><Data ss:Type="Number">91.45</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7917694</Data></Cell>
+    <Cell><Data ss:Type="Number">8457553</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">207</Data></Cell>
+    <Cell><Data ss:Type="Number">1847419</Data></Cell>
+    <Cell><Data ss:Type="Number">2960166</Data></Cell>
+    <Cell><Data ss:Type="Number">26500</Data></Cell>
+    <Cell><Data ss:Type="Number">2561742</Data></Cell>
+    <Cell><Data ss:Type="Number">7369327</Data></Cell>
+    <Cell><Data ss:Type="Number">14.75</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">401</Data></Cell>
+    <Cell><Data ss:Type="Number">427</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">294</Data></Cell>
+    <Cell><Data ss:Type="Number">294</Data></Cell>
+    <Cell><Data ss:Type="Number">131</Data></Cell>
+    <Cell><Data ss:Type="Number">238</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">532</Data></Cell>
+    <Cell><Data ss:Type="Number">44.74</Data></Cell>
+    <Cell><Data ss:Type="Number">0.81</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9116</Data></Cell>
+    <Cell><Data ss:Type="String">SAAVEDRA</Data></Cell>
+    <Cell><Data ss:Type="Number">2429</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Administra MINEDUC</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1518</Data></Cell>
+    <Cell><Data ss:Type="Number">228</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1073</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9117</Data></Cell>
+    <Cell><Data ss:Type="String">TEODORO SCHMIDT</Data></Cell>
+    <Cell><Data ss:Type="Number">2748</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Administra MINEDUC</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1509</Data></Cell>
+    <Cell><Data ss:Type="Number">342</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1160</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">28.57</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9118</Data></Cell>
+    <Cell><Data ss:Type="String">TOLTÉN</Data></Cell>
+    <Cell><Data ss:Type="Number">1936</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Administra MINEDUC</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1253</Data></Cell>
+    <Cell><Data ss:Type="Number">327</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">765</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Sin Servicio</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9119</Data></Cell>
+    <Cell><Data ss:Type="String">VILCÚN</Data></Cell>
+    <Cell><Data ss:Type="Number">6363</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">32.94</Data></Cell>
+    <Cell><Data ss:Type="Number">3583</Data></Cell>
+    <Cell><Data ss:Type="Number">1195</Data></Cell>
+    <Cell><Data ss:Type="Number">1313</Data></Cell>
+    <Cell><Data ss:Type="Number">551</Data></Cell>
+    <Cell><Data ss:Type="Number">2096</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3556</Data></Cell>
+    <Cell><Data ss:Type="Number">2578</Data></Cell>
+    <Cell><Data ss:Type="Number">92.13</Data></Cell>
+    <Cell><Data ss:Type="Number">0.14000000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">0.42</Data></Cell>
+    <Cell><Data ss:Type="Number">85</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">68</Data></Cell>
+    <Cell><Data ss:Type="Number">46</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">54.12</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">48.53</Data></Cell>
+    <Cell><Data ss:Type="Number">36.29</Data></Cell>
+    <Cell><Data ss:Type="Number">155750</Data></Cell>
+    <Cell><Data ss:Type="Number">2.19</Data></Cell>
+    <Cell><Data ss:Type="Number">2.04</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7628853</Data></Cell>
+    <Cell><Data ss:Type="Number">7628853</Data></Cell>
+    <Cell><Data ss:Type="Number">7473103</Data></Cell>
+    <Cell><Data ss:Type="Number">7291173</Data></Cell>
+    <Cell><Data ss:Type="Number">1463597</Data></Cell>
+    <Cell><Data ss:Type="Number">9078761</Data></Cell>
+    <Cell><Data ss:Type="Number">2768631</Data></Cell>
+    <Cell><Data ss:Type="Number">2.81</Data></Cell>
+    <Cell><Data ss:Type="Number">6323223</Data></Cell>
+    <Cell><Data ss:Type="Number">798412</Data></Cell>
+    <Cell><Data ss:Type="Number">7383543</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">10.99</Data></Cell>
+    <Cell><Data ss:Type="Number">228.39</Data></Cell>
+    <Cell><Data ss:Type="Number">85.64</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7291173</Data></Cell>
+    <Cell><Data ss:Type="Number">9078762</Data></Cell>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell><Data ss:Type="Number">1569210</Data></Cell>
+    <Cell><Data ss:Type="Number">2325418</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2428595</Data></Cell>
+    <Cell><Data ss:Type="Number">6323223</Data></Cell>
+    <Cell><Data ss:Type="Number">14.48</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="Number">354</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">246</Data></Cell>
+    <Cell><Data ss:Type="Number">125</Data></Cell>
+    <Cell><Data ss:Type="Number">232</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">217</Data></Cell>
+    <Cell><Data ss:Type="Number">55.11</Data></Cell>
+    <Cell><Data ss:Type="Number">1.23</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9120</Data></Cell>
+    <Cell><Data ss:Type="String">VILLARRICA</Data></Cell>
+    <Cell><Data ss:Type="Number">11621</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">32.200000000000003</Data></Cell>
+    <Cell><Data ss:Type="Number">8085</Data></Cell>
+    <Cell><Data ss:Type="Number">4257</Data></Cell>
+    <Cell><Data ss:Type="Number">1991</Data></Cell>
+    <Cell><Data ss:Type="Number">1241</Data></Cell>
+    <Cell><Data ss:Type="Number">3742</Data></Cell>
+    <Cell><Data ss:Type="Number">523</Data></Cell>
+    <Cell><Data ss:Type="Number">10079</Data></Cell>
+    <Cell><Data ss:Type="Number">4465</Data></Cell>
+    <Cell><Data ss:Type="Number">92.27</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.35</Data></Cell>
+    <Cell><Data ss:Type="Number">189</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">487</Data></Cell>
+    <Cell><Data ss:Type="Number">130</Data></Cell>
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="Number">327</Data></Cell>
+    <Cell><Data ss:Type="Number">68.78</Data></Cell>
+    <Cell><Data ss:Type="Number">96.67</Data></Cell>
+    <Cell><Data ss:Type="Number">67.150000000000006</Data></Cell>
+    <Cell><Data ss:Type="Number">43.22</Data></Cell>
+    <Cell><Data ss:Type="Number">29340</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell><Data ss:Type="Number">0.25</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">11810638</Data></Cell>
+    <Cell><Data ss:Type="Number">11810638</Data></Cell>
+    <Cell><Data ss:Type="Number">11781298</Data></Cell>
+    <Cell><Data ss:Type="Number">8988626</Data></Cell>
+    <Cell><Data ss:Type="Number">2208680</Data></Cell>
+    <Cell><Data ss:Type="Number">14694281</Data></Cell>
+    <Cell><Data ss:Type="Number">5104352</Data></Cell>
+    <Cell><Data ss:Type="Number">0.32</Data></Cell>
+    <Cell><Data ss:Type="Number">8791079</Data></Cell>
+    <Cell><Data ss:Type="Number">903617</Data></Cell>
+    <Cell><Data ss:Type="Number">10237667</Data></Cell>
+    <Cell><Data ss:Type="Number">57604</Data></Cell>
+    <Cell><Data ss:Type="Number">9.0500000000000007</Data></Cell>
+    <Cell><Data ss:Type="Number">172.23</Data></Cell>
+    <Cell><Data ss:Type="Number">85.87</Data></Cell>
+    <Cell><Data ss:Type="Number">0.56000000000000005</Data></Cell>
+    <Cell><Data ss:Type="Number">8988636</Data></Cell>
+    <Cell><Data ss:Type="Number">14694284</Data></Cell>
+    <Cell><Data ss:Type="Number">222</Data></Cell>
+    <Cell><Data ss:Type="Number">284</Data></Cell>
+    <Cell><Data ss:Type="Number">2331125</Data></Cell>
+    <Cell><Data ss:Type="Number">2021408</Data></Cell>
+    <Cell><Data ss:Type="Number">16415</Data></Cell>
+    <Cell><Data ss:Type="Number">4438546</Data></Cell>
+    <Cell><Data ss:Type="Number">8791079</Data></Cell>
+    <Cell><Data ss:Type="Number">15.72</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">128</Data></Cell>
+    <Cell><Data ss:Type="Number">563</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">250</Data></Cell>
+    <Cell><Data ss:Type="Number">420</Data></Cell>
+    <Cell><Data ss:Type="Number">213</Data></Cell>
+    <Cell><Data ss:Type="Number">341</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">341</Data></Cell>
+    <Cell><Data ss:Type="Number">57.7</Data></Cell>
+    <Cell><Data ss:Type="Number">1.36</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9121</Data></Cell>
+    <Cell><Data ss:Type="String">CHOLCHOL</Data></Cell>
+    <Cell><Data ss:Type="Number">2589</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">25.99</Data></Cell>
+    <Cell><Data ss:Type="Number">1586</Data></Cell>
+    <Cell><Data ss:Type="Number">782</Data></Cell>
+    <Cell><Data ss:Type="Number">453</Data></Cell>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="Number">673</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2071</Data></Cell>
+    <Cell><Data ss:Type="Number">837</Data></Cell>
+    <Cell><Data ss:Type="Number">96.42</Data></Cell>
+    <Cell><Data ss:Type="Number">0.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">91</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="Number">15.38</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">35.159999999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">41.61</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">2707048</Data></Cell>
+    <Cell><Data ss:Type="Number">2707048</Data></Cell>
+    <Cell><Data ss:Type="Number">2707048</Data></Cell>
+    <Cell><Data ss:Type="Number">3170000</Data></Cell>
+    <Cell><Data ss:Type="Number">383633</Data></Cell>
+    <Cell><Data ss:Type="Number">3514883</Data></Cell>
+    <Cell><Data ss:Type="Number">1126303</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2109131</Data></Cell>
+    <Cell><Data ss:Type="Number">281653</Data></Cell>
+    <Cell><Data ss:Type="Number">2518263</Data></Cell>
+    <Cell><Data ss:Type="Number">47918</Data></Cell>
+    <Cell><Data ss:Type="Number">11.44</Data></Cell>
+    <Cell><Data ss:Type="Number">187.26</Data></Cell>
+    <Cell><Data ss:Type="Number">83.75</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9</Data></Cell>
+    <Cell><Data ss:Type="Number">3170000</Data></Cell>
+    <Cell><Data ss:Type="Number">3514883</Data></Cell>
+    <Cell><Data ss:Type="Number">70</Data></Cell>
+    <Cell><Data ss:Type="Number">44</Data></Cell>
+    <Cell><Data ss:Type="Number">422637</Data></Cell>
+    <Cell><Data ss:Type="Number">982781</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">703713</Data></Cell>
+    <Cell><Data ss:Type="Number">2109131</Data></Cell>
+    <Cell><Data ss:Type="Number">19.02</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="Number">132</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="Number">128</Data></Cell>
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">62</Data></Cell>
+    <Cell><Data ss:Type="Number">37.369999999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9201</Data></Cell>
+    <Cell><Data ss:Type="String">ANGOL</Data></Cell>
+    <Cell><Data ss:Type="Number">10594</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">59.26</Data></Cell>
+    <Cell><Data ss:Type="Number">6642</Data></Cell>
+    <Cell><Data ss:Type="Number">3807</Data></Cell>
+    <Cell><Data ss:Type="Number">3491</Data></Cell>
+    <Cell><Data ss:Type="Number">2010</Data></Cell>
+    <Cell><Data ss:Type="Number">6278</Data></Cell>
+    <Cell><Data ss:Type="Number">418</Data></Cell>
+    <Cell><Data ss:Type="Number">4951</Data></Cell>
+    <Cell><Data ss:Type="Number">7553</Data></Cell>
+    <Cell><Data ss:Type="Number">92.15</Data></Cell>
+    <Cell><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.11</Data></Cell>
+    <Cell><Data ss:Type="Number">449</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">169</Data></Cell>
+    <Cell><Data ss:Type="Number">218</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="Number">48.55</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+    <Cell><Data ss:Type="Number">78.7</Data></Cell>
+    <Cell><Data ss:Type="Number">41.14</Data></Cell>
+    <Cell><Data ss:Type="Number">309210</Data></Cell>
+    <Cell><Data ss:Type="Number">2.62</Data></Cell>
+    <Cell><Data ss:Type="Number">1.55</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">19895796</Data></Cell>
+    <Cell><Data ss:Type="Number">19895796</Data></Cell>
+    <Cell><Data ss:Type="Number">19586586</Data></Cell>
+    <Cell><Data ss:Type="Number">22340034</Data></Cell>
+    <Cell><Data ss:Type="Number">6590610</Data></Cell>
+    <Cell><Data ss:Type="Number">27730541</Data></Cell>
+    <Cell><Data ss:Type="Number">8184523</Data></Cell>
+    <Cell><Data ss:Type="Number">3.32</Data></Cell>
+    <Cell><Data ss:Type="Number">15348103</Data></Cell>
+    <Cell><Data ss:Type="Number">1812345</Data></Cell>
+    <Cell><Data ss:Type="Number">18202874</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">10.130000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">187.53</Data></Cell>
+    <Cell><Data ss:Type="Number">84.32</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">22340034</Data></Cell>
+    <Cell><Data ss:Type="Number">27730541</Data></Cell>
+    <Cell><Data ss:Type="Number">494</Data></Cell>
+    <Cell><Data ss:Type="Number">423</Data></Cell>
+    <Cell><Data ss:Type="Number">2775708</Data></Cell>
+    <Cell><Data ss:Type="Number">6149696</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6422699</Data></Cell>
+    <Cell><Data ss:Type="Number">15348103</Data></Cell>
+    <Cell><Data ss:Type="Number">17.86</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">187</Data></Cell>
+    <Cell><Data ss:Type="Number">1000</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">521</Data></Cell>
+    <Cell><Data ss:Type="Number">521</Data></Cell>
+    <Cell><Data ss:Type="Number">321</Data></Cell>
+    <Cell><Data ss:Type="Number">508</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">508</Data></Cell>
+    <Cell><Data ss:Type="Number">49.37</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9202</Data></Cell>
+    <Cell><Data ss:Type="String">COLLIPULLI</Data></Cell>
+    <Cell><Data ss:Type="Number">5383</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">60.43</Data></Cell>
+    <Cell><Data ss:Type="Number">3400</Data></Cell>
+    <Cell><Data ss:Type="Number">1270</Data></Cell>
+    <Cell><Data ss:Type="Number">2059</Data></Cell>
+    <Cell><Data ss:Type="Number">779</Data></Cell>
+    <Cell><Data ss:Type="Number">3253</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2162</Data></Cell>
+    <Cell><Data ss:Type="Number">4074</Data></Cell>
+    <Cell><Data ss:Type="Number">89.96</Data></Cell>
+    <Cell><Data ss:Type="Number">0.12</Data></Cell>
+    <Cell><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">106</Data></Cell>
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">36.619999999999997</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">65.09</Data></Cell>
+    <Cell><Data ss:Type="Number">41.36</Data></Cell>
+    <Cell><Data ss:Type="Number">36684</Data></Cell>
+    <Cell><Data ss:Type="Number">0.59</Data></Cell>
+    <Cell><Data ss:Type="Number">0.36</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">10297339</Data></Cell>
+    <Cell><Data ss:Type="Number">10297339</Data></Cell>
+    <Cell><Data ss:Type="Number">10260655</Data></Cell>
+    <Cell><Data ss:Type="Number">11063117</Data></Cell>
+    <Cell><Data ss:Type="Number">1524099</Data></Cell>
+    <Cell><Data ss:Type="Number">12803298</Data></Cell>
+    <Cell><Data ss:Type="Number">4258529</Data></Cell>
+    <Cell><Data ss:Type="Number">0.71</Data></Cell>
+    <Cell><Data ss:Type="Number">8556865</Data></Cell>
+    <Cell><Data ss:Type="Number">1061436</Data></Cell>
+    <Cell><Data ss:Type="Number">10292584</Data></Cell>
+    <Cell><Data ss:Type="Number">13125</Data></Cell>
+    <Cell><Data ss:Type="Number">10.71</Data></Cell>
+    <Cell><Data ss:Type="Number">200.93</Data></Cell>
+    <Cell><Data ss:Type="Number">83.14</Data></Cell>
+    <Cell><Data ss:Type="Number">0.13</Data></Cell>
+    <Cell><Data ss:Type="Number">11063117</Data></Cell>
+    <Cell><Data ss:Type="Number">12803298</Data></Cell>
+    <Cell><Data ss:Type="Number">283</Data></Cell>
+    <Cell><Data ss:Type="Number">249</Data></Cell>
+    <Cell><Data ss:Type="Number">1412964</Data></Cell>
+    <Cell><Data ss:Type="Number">3235161</Data></Cell>
+    <Cell><Data ss:Type="Number">8141</Data></Cell>
+    <Cell><Data ss:Type="Number">3908740</Data></Cell>
+    <Cell><Data ss:Type="Number">8556865</Data></Cell>
+    <Cell><Data ss:Type="Number">16.36</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">152</Data></Cell>
+    <Cell><Data ss:Type="Number">585</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">256</Data></Cell>
+    <Cell><Data ss:Type="Number">373</Data></Cell>
+    <Cell><Data ss:Type="Number">543</Data></Cell>
+    <Cell><Data ss:Type="Number">318</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">695</Data></Cell>
+    <Cell><Data ss:Type="Number">55.4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.24</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9203</Data></Cell>
+    <Cell><Data ss:Type="String">CURACAUTÍN</Data></Cell>
+    <Cell><Data ss:Type="Number">3273</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">68.650000000000006</Data></Cell>
+    <Cell><Data ss:Type="Number">1934</Data></Cell>
+    <Cell><Data ss:Type="Number">944</Data></Cell>
+    <Cell><Data ss:Type="Number">1344</Data></Cell>
+    <Cell><Data ss:Type="Number">606</Data></Cell>
+    <Cell><Data ss:Type="Number">2247</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">790</Data></Cell>
+    <Cell><Data ss:Type="Number">2581</Data></Cell>
+    <Cell><Data ss:Type="Number">92.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.21</Data></Cell>
+    <Cell><Data ss:Type="Number">0.53</Data></Cell>
+    <Cell><Data ss:Type="Number">133</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">73</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">54.89</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">43.49</Data></Cell>
+    <Cell><Data ss:Type="Number">60000</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.76</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7859639</Data></Cell>
+    <Cell><Data ss:Type="Number">7859639</Data></Cell>
+    <Cell><Data ss:Type="Number">7799639</Data></Cell>
+    <Cell><Data ss:Type="Number">7461918</Data></Cell>
+    <Cell><Data ss:Type="Number">768940</Data></Cell>
+    <Cell><Data ss:Type="Number">8286864</Data></Cell>
+    <Cell><Data ss:Type="Number">3417804</Data></Cell>
+    <Cell><Data ss:Type="Number">1.43</Data></Cell>
+    <Cell><Data ss:Type="Number">6583857</Data></Cell>
+    <Cell><Data ss:Type="Number">663976</Data></Cell>
+    <Cell><Data ss:Type="Number">7679355</Data></Cell>
+    <Cell><Data ss:Type="Number">183746</Data></Cell>
+    <Cell><Data ss:Type="Number">8.75</Data></Cell>
+    <Cell><Data ss:Type="Number">192.63</Data></Cell>
+    <Cell><Data ss:Type="Number">85.73</Data></Cell>
+    <Cell><Data ss:Type="Number">2.39</Data></Cell>
+    <Cell><Data ss:Type="Number">7461918</Data></Cell>
+    <Cell><Data ss:Type="Number">8286864</Data></Cell>
+    <Cell><Data ss:Type="Number">161</Data></Cell>
+    <Cell><Data ss:Type="Number">173</Data></Cell>
+    <Cell><Data ss:Type="Number">1614260</Data></Cell>
+    <Cell><Data ss:Type="Number">2069984</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2899613</Data></Cell>
+    <Cell><Data ss:Type="Number">6583857</Data></Cell>
+    <Cell><Data ss:Type="Number">14.92</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">92</Data></Cell>
+    <Cell><Data ss:Type="Number">386</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell><Data ss:Type="Number">144</Data></Cell>
+    <Cell><Data ss:Type="Number">216</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">236</Data></Cell>
+    <Cell><Data ss:Type="Number">46.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9204</Data></Cell>
+    <Cell><Data ss:Type="String">ERCILLA</Data></Cell>
+    <Cell><Data ss:Type="Number">1743</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">53.01</Data></Cell>
+    <Cell><Data ss:Type="Number">1058</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="Number">669</Data></Cell>
+    <Cell><Data ss:Type="Number">95</Data></Cell>
+    <Cell><Data ss:Type="Number">924</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">467</Data></Cell>
+    <Cell><Data ss:Type="Number">1182</Data></Cell>
+    <Cell><Data ss:Type="Number">92.89</Data></Cell>
+    <Cell><Data ss:Type="Number">0.09</Data></Cell>
+    <Cell><Data ss:Type="Number">1.05</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">42.86</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">31.95</Data></Cell>
+    <Cell><Data ss:Type="Number">8000</Data></Cell>
+    <Cell><Data ss:Type="Number">0.23</Data></Cell>
+    <Cell><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">4028322</Data></Cell>
+    <Cell><Data ss:Type="Number">4028322</Data></Cell>
+    <Cell><Data ss:Type="Number">4020322</Data></Cell>
+    <Cell><Data ss:Type="Number">4144673</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4144673</Data></Cell>
+    <Cell><Data ss:Type="Number">1287112</Data></Cell>
+    <Cell><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell><Data ss:Type="Number">3100135</Data></Cell>
+    <Cell><Data ss:Type="Number">602059</Data></Cell>
+    <Cell><Data ss:Type="Number">3872455</Data></Cell>
+    <Cell><Data ss:Type="Number">2100</Data></Cell>
+    <Cell><Data ss:Type="Number">15.77</Data></Cell>
+    <Cell><Data ss:Type="Number">240.86</Data></Cell>
+    <Cell><Data ss:Type="Number">80.06</Data></Cell>
+    <Cell><Data ss:Type="Number">0.05</Data></Cell>
+    <Cell><Data ss:Type="Number">4144673</Data></Cell>
+    <Cell><Data ss:Type="Number">4144673</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="Number">736879</Data></Cell>
+    <Cell><Data ss:Type="Number">1180813</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1182443</Data></Cell>
+    <Cell><Data ss:Type="Number">3100135</Data></Cell>
+    <Cell><Data ss:Type="Number">13.59</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">54</Data></Cell>
+    <Cell><Data ss:Type="Number">188</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">74</Data></Cell>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell><Data ss:Type="Number">65</Data></Cell>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="Number">61.66</Data></Cell>
+    <Cell><Data ss:Type="Number">1.61</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9205</Data></Cell>
+    <Cell><Data ss:Type="String">LONQUIMAY</Data></Cell>
+    <Cell><Data ss:Type="Number">2219</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">76.75</Data></Cell>
+    <Cell><Data ss:Type="Number">1290</Data></Cell>
+    <Cell><Data ss:Type="Number">522</Data></Cell>
+    <Cell><Data ss:Type="Number">996</Data></Cell>
+    <Cell><Data ss:Type="Number">522</Data></Cell>
+    <Cell><Data ss:Type="Number">1703</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">347</Data></Cell>
+    <Cell><Data ss:Type="Number">2158</Data></Cell>
+    <Cell><Data ss:Type="Number">81.459999999999994</Data></Cell>
+    <Cell><Data ss:Type="Number">0.08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.56999999999999995</Data></Cell>
+    <Cell><Data ss:Type="Number">80</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">41.25</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">58.25</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7118930</Data></Cell>
+    <Cell><Data ss:Type="Number">7118930</Data></Cell>
+    <Cell><Data ss:Type="Number">7118930</Data></Cell>
+    <Cell><Data ss:Type="Number">6098270</Data></Cell>
+    <Cell><Data ss:Type="Number">629293</Data></Cell>
+    <Cell><Data ss:Type="Number">7818049</Data></Cell>
+    <Cell><Data ss:Type="Number">4146655</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5868226</Data></Cell>
+    <Cell><Data ss:Type="Number">700796</Data></Cell>
+    <Cell><Data ss:Type="Number">6760399</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">10.45</Data></Cell>
+    <Cell><Data ss:Type="Number">141.52000000000001</Data></Cell>
+    <Cell><Data ss:Type="Number">86.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6098270</Data></Cell>
+    <Cell><Data ss:Type="Number">7818049</Data></Cell>
+    <Cell><Data ss:Type="Number">199</Data></Cell>
+    <Cell><Data ss:Type="Number">149</Data></Cell>
+    <Cell><Data ss:Type="Number">1553135</Data></Cell>
+    <Cell><Data ss:Type="Number">1879190</Data></Cell>
+    <Cell><Data ss:Type="Number">44680</Data></Cell>
+    <Cell><Data ss:Type="Number">2435901</Data></Cell>
+    <Cell><Data ss:Type="Number">5868226</Data></Cell>
+    <Cell><Data ss:Type="Number">14.48</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">87</Data></Cell>
+    <Cell><Data ss:Type="Number">375</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">195</Data></Cell>
+    <Cell><Data ss:Type="Number">228</Data></Cell>
+    <Cell><Data ss:Type="Number">97</Data></Cell>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">184</Data></Cell>
+    <Cell><Data ss:Type="Number">48.55</Data></Cell>
+    <Cell><Data ss:Type="Number">0.94</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9206</Data></Cell>
+    <Cell><Data ss:Type="String">LOS SAUCES</Data></Cell>
+    <Cell><Data ss:Type="Number">1382</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">72.72</Data></Cell>
+    <Cell><Data ss:Type="Number">725</Data></Cell>
+    <Cell><Data ss:Type="Number">342</Data></Cell>
+    <Cell><Data ss:Type="Number">596</Data></Cell>
+    <Cell><Data ss:Type="Number">342</Data></Cell>
+    <Cell><Data ss:Type="Number">1005</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">240</Data></Cell>
+    <Cell><Data ss:Type="Number">1214</Data></Cell>
+    <Cell><Data ss:Type="Number">95.8</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1.17</Data></Cell>
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">18.920000000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">35.94</Data></Cell>
+    <Cell><Data ss:Type="Number">24200</Data></Cell>
+    <Cell><Data ss:Type="Number">0.62</Data></Cell>
+    <Cell><Data ss:Type="Number">0.59</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">4134686</Data></Cell>
+    <Cell><Data ss:Type="Number">4134686</Data></Cell>
+    <Cell><Data ss:Type="Number">4110486</Data></Cell>
+    <Cell><Data ss:Type="Number">3976300</Data></Cell>
+    <Cell><Data ss:Type="Number">981887</Data></Cell>
+    <Cell><Data ss:Type="Number">5166051</Data></Cell>
+    <Cell><Data ss:Type="Number">1486110</Data></Cell>
+    <Cell><Data ss:Type="Number">0.98</Data></Cell>
+    <Cell><Data ss:Type="Number">3196566</Data></Cell>
+    <Cell><Data ss:Type="Number">448092</Data></Cell>
+    <Cell><Data ss:Type="Number">3846589</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">11.94</Data></Cell>
+    <Cell><Data ss:Type="Number">215.1</Data></Cell>
+    <Cell><Data ss:Type="Number">83.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3976300</Data></Cell>
+    <Cell><Data ss:Type="Number">5166051</Data></Cell>
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="Number">78</Data></Cell>
+    <Cell><Data ss:Type="Number">489726</Data></Cell>
+    <Cell><Data ss:Type="Number">1278716</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1428124</Data></Cell>
+    <Cell><Data ss:Type="Number">3196566</Data></Cell>
+    <Cell><Data ss:Type="Number">15.56</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="Number">206</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">98</Data></Cell>
+    <Cell><Data ss:Type="Number">119</Data></Cell>
+    <Cell><Data ss:Type="Number">69</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">103</Data></Cell>
+    <Cell><Data ss:Type="Number">4.8499999999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">0.05</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9207</Data></Cell>
+    <Cell><Data ss:Type="String">LUMACO</Data></Cell>
+    <Cell><Data ss:Type="Number">1936</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">63.64</Data></Cell>
+    <Cell><Data ss:Type="Number">1095</Data></Cell>
+    <Cell><Data ss:Type="Number">234</Data></Cell>
+    <Cell><Data ss:Type="Number">848</Data></Cell>
+    <Cell><Data ss:Type="Number">234</Data></Cell>
+    <Cell><Data ss:Type="Number">1232</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">247</Data></Cell>
+    <Cell><Data ss:Type="Number">1534</Data></Cell>
+    <Cell><Data ss:Type="Number">89.24</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18</Data></Cell>
+    <Cell><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">29.17</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">67.14</Data></Cell>
+    <Cell><Data ss:Type="Number">108300</Data></Cell>
+    <Cell><Data ss:Type="Number">3.24</Data></Cell>
+    <Cell><Data ss:Type="Number">2.66</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">4073727</Data></Cell>
+    <Cell><Data ss:Type="Number">4073727</Data></Cell>
+    <Cell><Data ss:Type="Number">3965427</Data></Cell>
+    <Cell><Data ss:Type="Number">5507548</Data></Cell>
+    <Cell><Data ss:Type="Number">490000</Data></Cell>
+    <Cell><Data ss:Type="Number">5507548</Data></Cell>
+    <Cell><Data ss:Type="Number">2734919</Data></Cell>
+    <Cell><Data ss:Type="Number">4.0599999999999996</Data></Cell>
+    <Cell><Data ss:Type="Number">3596791</Data></Cell>
+    <Cell><Data ss:Type="Number">343832</Data></Cell>
+    <Cell><Data ss:Type="Number">4206475</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">8.44</Data></Cell>
+    <Cell><Data ss:Type="Number">131.51</Data></Cell>
+    <Cell><Data ss:Type="Number">85.51</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5507548</Data></Cell>
+    <Cell><Data ss:Type="Number">5507548</Data></Cell>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">724279</Data></Cell>
+    <Cell><Data ss:Type="Number">1338352</Data></Cell>
+    <Cell><Data ss:Type="Number">1080</Data></Cell>
+    <Cell><Data ss:Type="Number">1534160</Data></Cell>
+    <Cell><Data ss:Type="Number">3596791</Data></Cell>
+    <Cell><Data ss:Type="Number">17.239999999999998</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="Number">253</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="Number">178</Data></Cell>
+    <Cell><Data ss:Type="Number">227</Data></Cell>
+    <Cell><Data ss:Type="Number">108</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">265</Data></Cell>
+    <Cell><Data ss:Type="Number">44.08</Data></Cell>
+    <Cell><Data ss:Type="Number">0.79</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9208</Data></Cell>
+    <Cell><Data ss:Type="String">PURÉN</Data></Cell>
+    <Cell><Data ss:Type="Number">2242</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">82.52</Data></Cell>
+    <Cell><Data ss:Type="Number">1383</Data></Cell>
+    <Cell><Data ss:Type="Number">527</Data></Cell>
+    <Cell><Data ss:Type="Number">1077</Data></Cell>
+    <Cell><Data ss:Type="Number">527</Data></Cell>
+    <Cell><Data ss:Type="Number">1850</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">401</Data></Cell>
+    <Cell><Data ss:Type="Number">2232</Data></Cell>
+    <Cell><Data ss:Type="Number">91.67</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0.76</Data></Cell>
+    <Cell><Data ss:Type="Number">90</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">48</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">53.33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">48.18</Data></Cell>
+    <Cell><Data ss:Type="Number">90000</Data></Cell>
+    <Cell><Data ss:Type="Number">2.4300000000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">1.57</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">5739630</Data></Cell>
+    <Cell><Data ss:Type="Number">5739630</Data></Cell>
+    <Cell><Data ss:Type="Number">5649630</Data></Cell>
+    <Cell><Data ss:Type="Number">4780400</Data></Cell>
+    <Cell><Data ss:Type="Number">91720</Data></Cell>
+    <Cell><Data ss:Type="Number">5839217</Data></Cell>
+    <Cell><Data ss:Type="Number">2765594</Data></Cell>
+    <Cell><Data ss:Type="Number">3.01</Data></Cell>
+    <Cell><Data ss:Type="Number">4821868</Data></Cell>
+    <Cell><Data ss:Type="Number">279578</Data></Cell>
+    <Cell><Data ss:Type="Number">5291926</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">5.35</Data></Cell>
+    <Cell><Data ss:Type="Number">174.35</Data></Cell>
+    <Cell><Data ss:Type="Number">91.12</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">4780400</Data></Cell>
+    <Cell><Data ss:Type="Number">5839215</Data></Cell>
+    <Cell><Data ss:Type="Number">160</Data></Cell>
+    <Cell><Data ss:Type="Number">138</Data></Cell>
+    <Cell><Data ss:Type="Number">968692</Data></Cell>
+    <Cell><Data ss:Type="Number">1515533</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">2337643</Data></Cell>
+    <Cell><Data ss:Type="Number">4821868</Data></Cell>
+    <Cell><Data ss:Type="Number">16.170000000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">59</Data></Cell>
+    <Cell><Data ss:Type="Number">334</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">156</Data></Cell>
+    <Cell><Data ss:Type="Number">215</Data></Cell>
+    <Cell><Data ss:Type="Number">120</Data></Cell>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">179</Data></Cell>
+    <Cell><Data ss:Type="Number">53.43</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1499999999999999</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9209</Data></Cell>
+    <Cell><Data ss:Type="String">RENAICO</Data></Cell>
+    <Cell><Data ss:Type="Number">2057</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">51.82</Data></Cell>
+    <Cell><Data ss:Type="Number">1135</Data></Cell>
+    <Cell><Data ss:Type="Number">339</Data></Cell>
+    <Cell><Data ss:Type="Number">633</Data></Cell>
+    <Cell><Data ss:Type="Number">339</Data></Cell>
+    <Cell><Data ss:Type="Number">1066</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">731</Data></Cell>
+    <Cell><Data ss:Type="Number">1415</Data></Cell>
+    <Cell><Data ss:Type="Number">85.3</Data></Cell>
+    <Cell><Data ss:Type="Number">0.44</Data></Cell>
+    <Cell><Data ss:Type="Number">2.65</Data></Cell>
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">26.47</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">48.5</Data></Cell>
+    <Cell><Data ss:Type="Number">60000</Data></Cell>
+    <Cell><Data ss:Type="Number">1.64</Data></Cell>
+    <Cell><Data ss:Type="Number">1.36</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">4419701</Data></Cell>
+    <Cell><Data ss:Type="Number">4419701</Data></Cell>
+    <Cell><Data ss:Type="Number">4359701</Data></Cell>
+    <Cell><Data ss:Type="Number">3594000</Data></Cell>
+    <Cell><Data ss:Type="Number">117779</Data></Cell>
+    <Cell><Data ss:Type="Number">4308079</Data></Cell>
+    <Cell><Data ss:Type="Number">2143659</Data></Cell>
+    <Cell><Data ss:Type="Number">2.2200000000000002</Data></Cell>
+    <Cell><Data ss:Type="Number">3113111</Data></Cell>
+    <Cell><Data ss:Type="Number">514677</Data></Cell>
+    <Cell><Data ss:Type="Number">3875402</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">13.68</Data></Cell>
+    <Cell><Data ss:Type="Number">145.22</Data></Cell>
+    <Cell><Data ss:Type="Number">80.33</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3594000</Data></Cell>
+    <Cell><Data ss:Type="Number">4308079</Data></Cell>
+    <Cell><Data ss:Type="Number">104</Data></Cell>
+    <Cell><Data ss:Type="Number">101</Data></Cell>
+    <Cell><Data ss:Type="Number">869058</Data></Cell>
+    <Cell><Data ss:Type="Number">1138657</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">1105396</Data></Cell>
+    <Cell><Data ss:Type="Number">3113111</Data></Cell>
+    <Cell><Data ss:Type="Number">14.01</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">47</Data></Cell>
+    <Cell><Data ss:Type="Number">219</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">71</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">118</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9210</Data></Cell>
+    <Cell><Data ss:Type="String">TRAIGUÉN</Data></Cell>
+    <Cell><Data ss:Type="Number">3651</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">57.03</Data></Cell>
+    <Cell><Data ss:Type="Number">2179</Data></Cell>
+    <Cell><Data ss:Type="Number">1178</Data></Cell>
+    <Cell><Data ss:Type="Number">1160</Data></Cell>
+    <Cell><Data ss:Type="Number">666</Data></Cell>
+    <Cell><Data ss:Type="Number">2082</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">1701</Data></Cell>
+    <Cell><Data ss:Type="Number">2544</Data></Cell>
+    <Cell><Data ss:Type="Number">92.81</Data></Cell>
+    <Cell><Data ss:Type="Number">0.05</Data></Cell>
+    <Cell><Data ss:Type="Number">0.34</Data></Cell>
+    <Cell><Data ss:Type="Number">89</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">76</Data></Cell>
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">52</Data></Cell>
+    <Cell><Data ss:Type="Number">42.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">68.42</Data></Cell>
+    <Cell><Data ss:Type="Number">37.31</Data></Cell>
+    <Cell><Data ss:Type="Number">217397</Data></Cell>
+    <Cell><Data ss:Type="Number">4.58</Data></Cell>
+    <Cell><Data ss:Type="Number">2.97</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">7319910</Data></Cell>
+    <Cell><Data ss:Type="Number">7319910</Data></Cell>
+    <Cell><Data ss:Type="Number">7102513</Data></Cell>
+    <Cell><Data ss:Type="Number">7924494</Data></Cell>
+    <Cell><Data ss:Type="Number">1202321</Data></Cell>
+    <Cell><Data ss:Type="Number">9386012</Data></Cell>
+    <Cell><Data ss:Type="Number">2731384</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+    <Cell><Data ss:Type="Number">6245403</Data></Cell>
+    <Cell><Data ss:Type="Number">882710</Data></Cell>
+    <Cell><Data ss:Type="Number">7376160</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">12.09</Data></Cell>
+    <Cell><Data ss:Type="Number">228.65</Data></Cell>
+    <Cell><Data ss:Type="Number">84.67</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7924494</Data></Cell>
+    <Cell><Data ss:Type="Number">9386012</Data></Cell>
+    <Cell><Data ss:Type="Number">208</Data></Cell>
+    <Cell><Data ss:Type="Number">163</Data></Cell>
+    <Cell><Data ss:Type="Number">1182896</Data></Cell>
+    <Cell><Data ss:Type="Number">2584758</Data></Cell>
+    <Cell><Data ss:Type="Number">76375</Data></Cell>
+    <Cell><Data ss:Type="Number">2477749</Data></Cell>
+    <Cell><Data ss:Type="Number">6245403</Data></Cell>
+    <Cell><Data ss:Type="Number">15.61</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">72</Data></Cell>
+    <Cell><Data ss:Type="Number">403</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">306</Data></Cell>
+    <Cell><Data ss:Type="Number">317</Data></Cell>
+    <Cell><Data ss:Type="Number">137</Data></Cell>
+    <Cell><Data ss:Type="Number">220</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">209</Data></Cell>
+    <Cell><Data ss:Type="Number">41.83</Data></Cell>
+    <Cell><Data ss:Type="Number">0.72</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9211</Data></Cell>
+    <Cell><Data ss:Type="String">VICTORIA</Data></Cell>
+    <Cell><Data ss:Type="Number">6366</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">No</Data></Cell>
+    <Cell><Data ss:Type="String">Si</Data></Cell>
+    <Cell><Data ss:Type="String">Depto. o Dirección</Data></Cell>
+    <Cell><Data ss:Type="Number">55.81</Data></Cell>
+    <Cell><Data ss:Type="Number">3953</Data></Cell>
+    <Cell><Data ss:Type="Number">2279</Data></Cell>
+    <Cell><Data ss:Type="Number">1786</Data></Cell>
+    <Cell><Data ss:Type="Number">1368</Data></Cell>
+    <Cell><Data ss:Type="Number">3553</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3723</Data></Cell>
+    <Cell><Data ss:Type="Number">4464</Data></Cell>
+    <Cell><Data ss:Type="Number">94.67</Data></Cell>
+    <Cell><Data ss:Type="Number">0.1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.18</Data></Cell>
+    <Cell><Data ss:Type="Number">223</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">197</Data></Cell>
+    <Cell><Data ss:Type="Number">93</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">140</Data></Cell>
+    <Cell><Data ss:Type="Number">41.7</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">71.069999999999993</Data></Cell>
+    <Cell><Data ss:Type="Number">52.44</Data></Cell>
+    <Cell><Data ss:Type="Number">26000</Data></Cell>
+    <Cell><Data ss:Type="Number">0.33</Data></Cell>
+    <Cell><Data ss:Type="Number">0.22</Data></Cell>
+    <Cell><Data ss:Type="String">No Recepcionado</Data></Cell>
+    <Cell><Data ss:Type="Number">12038503</Data></Cell>
+    <Cell><Data ss:Type="Number">12038503</Data></Cell>
+    <Cell><Data ss:Type="Number">12012503</Data></Cell>
+    <Cell><Data ss:Type="Number">13402728</Data></Cell>
+    <Cell><Data ss:Type="Number">765185</Data></Cell>
+    <Cell><Data ss:Type="Number">15044803</Data></Cell>
+    <Cell><Data ss:Type="Number">6313214</Data></Cell>
+    <Cell><Data ss:Type="Number">0.41</Data></Cell>
+    <Cell><Data ss:Type="Number">9880561</Data></Cell>
+    <Cell><Data ss:Type="Number">1728986</Data></Cell>
+    <Cell><Data ss:Type="Number">12146736</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">14.47</Data></Cell>
+    <Cell><Data ss:Type="Number">156.51</Data></Cell>
+    <Cell><Data ss:Type="Number">81.34</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">13402728</Data></Cell>
+    <Cell><Data ss:Type="Number">15044805</Data></Cell>
+    <Cell><Data ss:Type="Number">307</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+    <Cell><Data ss:Type="Number">3047905</Data></Cell>
+    <Cell><Data ss:Type="Number">3037046</Data></Cell>
+    <Cell><Data ss:Type="Number">68191</Data></Cell>
+    <Cell><Data ss:Type="Number">3795610</Data></Cell>
+    <Cell><Data ss:Type="Number">9880561</Data></Cell>
+    <Cell><Data ss:Type="Number">14.88</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">200</Data></Cell>
+    <Cell><Data ss:Type="Number">669</Data></Cell>
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="Number">362</Data></Cell>
+    <Cell><Data ss:Type="Number">453</Data></Cell>
+    <Cell><Data ss:Type="Number">204</Data></Cell>
+    <Cell><Data ss:Type="Number">367</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">404</Data></Cell>
+    <Cell><Data ss:Type="Number">50.34</Data></Cell>
+    <Cell><Data ss:Type="Number">1.01</Data></Cell>
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.98" x:Left="0.79" x:Right="0.79" x:Top="0.98"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>12</ActiveRow>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
